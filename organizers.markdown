@@ -8,7 +8,7 @@ permalink: /organizers/
     <h1 class="custom-h1">Commitee</h1>
 </div>
 
-*   [Seungwoo JE](https://www.seungwooje.com/) (SUSTech School of Design)
+*   [Seungwoo JE](http://immersivedesignresearch.com/) (SUSTech School of Design)
 *   [Xueliang Li](https://designschool.sustech.edu.cn/about/team/faculty/483.html) (SUSTech School of Design)
 *   [Pengcheng An](https://anpengcheng.cn/) (SUSTech School of Design)
 
