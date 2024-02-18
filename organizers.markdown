@@ -8,10 +8,9 @@ permalink: /organizers/
     <h1 class="custom-h1">Commitee</h1>
 </div>
 
+*   [Pengcheng AN](https://anpengcheng.cn/) (SUSTech School of Design)
 *   [Seungwoo JE](http://immersivedesignresearch.com/) (SUSTech School of Design)
-*   [Xueliang Li](https://designschool.sustech.edu.cn/about/team/faculty/483.html) (SUSTech School of Design)
-*   [Pengcheng An](https://anpengcheng.cn/) (SUSTech School of Design)
-
+*   [Xueliang LI](https://designschool.sustech.edu.cn/about/team/faculty/483.html) (SUSTech School of Design)
 
 <div class="section-title">
     <h1 class="custom-h1">Advisors</h1>
@@ -21,7 +20,7 @@ permalink: /organizers/
     <h1 class="custom-h1">Dream Team</h1>
 </div>
 
-*   [Yilong Lin](https://dragonlyl0718.github.io/) (SUSTech, Student Volunteer)
+*   [Yilong LIN](https://dragonlyl0718.github.io/) (SUSTech, Student Volunteer)
 
 <div class="section-title">
     <h1 class="custom-h1">Host Institution</h1>

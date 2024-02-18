@@ -9,7 +9,7 @@ layout: home
     <div class="text-container">
         <p class="line1">GBA HCI Symposium</p>
         <p class="line1">粤港澳大湾区人机交互论坛</p>
-        <p class="line1">Shenzhen, 2024</p>
+        <p class="line2">Shenzhen, 2024</p>
     </div>
 </div>
 
@@ -127,6 +127,15 @@ With its strategic global position, exceptional infrastructure, and commitment t
     margin: 0; /* 移除默认的边距 */
     padding: 10px 0; /* 可选：添加一些上下填充 */
     font-size: 1.5em; /* 设置字体大小，根据需要调整 */
+}
+
+@media screen and (max-width: 480px) {
+    .line1 {
+        font-size: 2.5em;
+    }
+    .line2 {
+        font-size: 2em;
+    }
 }
 
 </style>
