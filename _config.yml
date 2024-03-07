@@ -1,67 +1,61 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# SITE CONFIGURATION
+# baseurl: "/Type-on-Strap"
+# url: "https://sylhare.github.io"
 
-title: GBA HCI
-email:
-description: Symposium for Human-Computer Interaction
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+# THEME-SPECIFIC CONFIGURATION
+title: GBA CHI                                  # site's title
+description: "Greater Bay Area Human-Computer Interaction"      # used by search engines
+avatar:                          # Empty for no avatar in navbar
+favicon: assets/favicon.ico                             # Icon displayed in the tab
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# Header and footer text
+header_text: GBA CHI | 粤港澳大湾区人机交互论坛  # Change Blog header text
+header_feature_image: assets/img/Background.jpg         # The image used in the header
+header_feature_image_responsive: true
+footer_text: >
+  GBA CHI | 粤港澳大湾区人机交互论坛
 
-include:
-  - assets/css/style.css
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+
+# Features
+# More in the _data folder for share buttons, author and language
+# For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
+katex: true                                             # Enable if using math markup
+mermaid: default                                        # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
+google_analytics:                                       # Measurement ID, e.g. "G-00000"
+cookie_consent: false                                   # To respect the usage of cookies
+color_theme: auto                                       # auto, dark or light
+
+# Comments options
+comments:
+  disqus_shortname:                                     # Your discus shortname for comments
+  cusdis_app_id:                                        # Your cusdis data-app-id
+  utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
+    repo:                                               # your public comments repository (e.g. owner/repo)
+    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+
+# PAGINATION
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# PORTFOLIO
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+# BUILD SETTINGS
+sass:
+  style: compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
+
+# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
 
 navigation:
-  # - title: Program
-  #   url: /program/
-  - title: Venue
-    url: /venue/
-  # - title: Registration
-  #   url: /registration/
-  - title: Participate
-    url: /participate/
-  - title: Organizers
-    url: /organizers/
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - title: About
+    url: /about/

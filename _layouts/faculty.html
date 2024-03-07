@@ -1,0 +1,97 @@
+---
+layout: page
+---
+
+<head>
+    <style>
+
+    .figure-grid {
+        margin: 0 auto; /* 水平居中 */
+    }
+
+    .figure-grid img {
+        width: 100%; /* 使图片响应式 */
+        break-inside: avoid; /* 防止图片在列中断开 */
+    }
+
+    .figure-grid a img {
+        display: block; /* 防止图片下方出现间隙 */
+        width: 100%; /* 使图片响应式 */
+        break-inside: avoid; /* 防止图片在列中断开 */
+    }
+
+    .figure-grid-sizer,
+    .figure-grid-item {
+        width: 25%; /* 四列布局 */
+        text-align: center;
+    }
+
+    .figure-grid-item {
+        padding: 5px 5px; /* 增加左右内边距 */
+        box-sizing: border-box; /* 确保内边距不会增加元素的总宽度 */
+    }
+
+    /* 可选：针对小屏幕调整列数 */
+    @media screen and (max-width: 768px) {
+        .figure-grid-sizer,
+        .figure-grid-item {
+            width: 33.333%; /* 小屏幕上一列布局 */
+        }
+    }
+
+    @media screen and (max-width: 480px) {
+        .figure-grid-sizer,
+        .figure-grid-item {
+            width: 50%; /* 小屏幕上一列布局 */
+        }
+    }
+
+    .image img {
+    transition: transform 0.5s ease-in-out; /* 在0.5秒内平滑过渡 */
+    }
+
+    .image img:hover {
+    transform: scale(1.02); /* 鼠标悬停时放大图片 */
+    }
+
+    .image-caption strong {
+        margin-top: 8px; /* 在图片和文字之间添加一些间距 */
+        font-size: 24px; /* 调整文字大小 */
+        color: #333; /* 设置文字颜色 */
+        margin-bottom: 4px;
+    }
+
+    .image-caption .details{
+        display: block; /* 或者 'inline-block', 依据您布局的需要 */
+        margin-top: 4px; /* 调整为所需的间隙 */
+        font-size: 16px; /* 设置更小的字体大小 */
+        line-height: 1.2; /* 根据需要调整行高 */
+    }
+    </style>
+</head>
+
+<body>
+    {{ content }}
+    <!-- 引入 Masonry -->
+    <script src="/assets/js/masonry.pkgd.min.js"></script>
+    <!-- 引入 imagesLoaded -->
+    <script src="/assets/js/imagesloaded.pkgd.min.js"></script>
+    <script>
+        var grid = document.querySelector('.figure-grid');
+        var msnry = new Masonry(grid, {
+        itemSelector: '.figure-grid-item',
+        columnWidth: '.figure-grid-sizer',
+        percentPosition: true
+        });
+
+        imagesLoaded(grid).on('progress', function(instance, image) {
+            msnry.layout(); 
+        }).on('always', function() {
+            msnry.layout(); 
+        });
+
+        window.addEventListener('load', function() {
+            msnry.layout();
+        });
+    </script>
+</body>

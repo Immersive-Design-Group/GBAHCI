@@ -1,0 +1,12 @@
+<footer class="site-footer">
+    <p class="text">
+        {{ site.footer_text | default: "GBA CHI | 粤港澳大湾区人机交互论坛" }}</p>
+    {% if site.mermaid %}
+        <script type="module">
+          mermaid.initialize({ startOnLoad: false, theme: "default" });
+          mermaid.run({ nodes: [...document.querySelectorAll('.language-mermaid'), ...document.querySelectorAll('.mermaid')] });
+        </script>
+    {% endif %}
+</footer>
+
+
