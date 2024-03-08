@@ -1,19 +1,20 @@
 ---
 layout: default
 ---
+<div class="home">
+    <style scoped>
+        {% assign image = site.header_feature_image | relative_url | split: '.' %}
+        .call-out_img {
+            background-image: url('{{ image | join: '.' }}');
+        }
+        {% if site.header_feature_image_responsive %}
+        {% endif %}
+    </style>
+    <div id="main" class="call-out call-out_img">
+        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+    </div>
+</div>
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
-    <header id="main" style="background-image: url('{{ page.feature-img | relative_url }}')">
-        <div class="title-padder">
-            {% if page.hide_title %}
-                <div class="feature-image-padding"></div>
-            {% else %}
-                <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title"> {{ page.title }}</h1>
-                {% if page.subtitle %}
-                    <h2 class="subtitle">{{ page.subtitle }}</h2>
-                {% endif %}
-            {% endif %}
-        </div>
-    </header>
     <section class="post-content">
         {% if page.bootstrap %}
             <div class="bootstrap-iso">
