@@ -3,17 +3,17 @@
 # url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: GBA CHI                                  # site's title
-description: "Greater Bay Area Human-Computer Interaction"      # used by search engines
+title: GB HCI                                  # site's title
+description: "Greater Bay HCI"      # used by search engines
 avatar:                          # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: GBA CHI | 粤港澳大湾区人机交互论坛  # Change Blog header text
+header_text: GB HCI | 粤港澳大湾区人机交互论坛  # Change Blog header text
 header_feature_image: assets/img/Background.jpg         # The image used in the header
 header_feature_image_responsive: true
 footer_text: >
-  GBA CHI | 粤港澳大湾区人机交互论坛
+  GB HCI | 粤港澳大湾区人机交互论坛
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
