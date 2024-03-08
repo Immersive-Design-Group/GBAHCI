@@ -37,7 +37,7 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
-        <a href="www.ixdlanguage.org" target="_blank"  class="image">
+        <a href="//www.ixdlanguage.org" target="_blank"  class="image">
         <img src="\faculty\Tao.webp" alt="faculty" />
         </a>
         <p class="image-caption">
