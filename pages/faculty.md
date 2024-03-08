@@ -36,4 +36,22 @@ position: 2
             <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
         </p>
     </div>
+    <div class="figure-grid-item">
+        <a href="https://www.ixdlanguage.org" target="_blank"  class="image">
+        <img src="\faculty\Tao.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Tao Luo</strong><br/>
+            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://www2.kmd.keio.ac.jp/~ruowei.xiao/" target="_blank"  class="image">
+        <img src="\faculty\Ruowei.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Ruowei Xiao</strong><br/>
+            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
 </div>
