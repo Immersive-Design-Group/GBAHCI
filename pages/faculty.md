@@ -18,4 +18,13 @@ position: 2
             <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
         </p>
     </div>
+    <div class="figure-grid-item">
+        <a href="http://anpengcheng.cn" target="_blank"  class="image">
+        <img src="\faculty\pengcheng.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Pengcheng An</strong><br/>
+            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
 </div>
