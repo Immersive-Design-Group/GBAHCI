@@ -11,7 +11,7 @@ position: 2
 <div class="figure-grid-sizer"></div>
     <div class="figure-grid-item">
         <a href="http://immersivedesignresearch.com/seungwoo" target="_blank"  class="image">
-        <img src="\faculty\Seung Woo Je.jpg" alt="faculty" />
+        <img src="\faculty\Seung Woo Je.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Seungwoo Je</strong><br/>
@@ -24,6 +24,15 @@ position: 2
         </a>
         <p class="image-caption">
             <strong>Pengcheng An</strong><br/>
+            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://xueliangseanli.github.io/Sean/" target="_blank"  class="image">
+        <img src="\faculty\xueliang.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Xueliang Li</strong><br/>
             <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
         </p>
     </div>
