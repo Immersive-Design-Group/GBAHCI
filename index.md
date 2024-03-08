@@ -8,4 +8,8 @@ Greater Bay HCI is an assembly of groups of researchers from universities and in
 # Events and organizers
 Below are the schedules and corresponding committees for the upcoming events hosted by us:	
 
+| Date | Event | Organizational committees | Location | Participation  |
+| --- | --- | --- | --- | --- |
+| 2024.4.27 | Pre-CHI symposium in Greater Bay | | City University of Hong Kong; Hong Kong University of Science and Technology, Guangzhou | Internal events |
+
 # Contact
