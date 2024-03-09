@@ -15,6 +15,6 @@ Below are the schedules and corresponding committees for the upcoming events hos
 
 | Date | Event | Organizational committees | Location | Participation  |
 | --- | --- | --- | --- | --- |
-| 2024.4.27 | Pre-CHI symposium in Greater Bay | City University of Hong Kong; Hong Kong University of Science and Technology, Guangzhou | | Internal events |
+| 2024.4.27 | Pre-CHI symposium in Greater Bay | City University of Hong Kong; Hong Kong University of Science and Technology, Guangzhou; Southern University of Science and Technology | | Internal events |
 
 # Contact
