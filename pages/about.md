@@ -30,4 +30,4 @@ With its strategic global position, exceptional infrastructure, and commitment t
 # How to participate?
 
 **Email us** <br/>
-Seungwoo Je, [seungwoo (at) sustech.edu.cn](seungwoo@sustech.edu.cn)
+Seungwoo Je, <a href="mailto:seungwoo@sustech.edu.cn">seungwoo (at) sustech.edu.cn</a>
