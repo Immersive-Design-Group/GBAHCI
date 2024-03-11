@@ -8,7 +8,6 @@ position: 2
 ---
 
 <div class="figure-grid">
-<div class="figure-grid-sizer"></div>
     <div class="figure-grid-item">
         <a href="http://immersivedesignresearch.com/seungwoo" target="_blank"  class="image">
         <img src="\faculty\Seung Woo Je.webp" alt="faculty" />
