@@ -9,10 +9,10 @@ position: 2
 
 <div class="logo-react-grid">
     <div class="logo-react-grid-item">
-        <img src="\assets\img\SUSTech.webp" alt="faculty" />
+        <img src="\assets\img\CityUHK Logo.webp" alt="faculty" />
     </div>
     <div class="logo-react-grid-item">
-        <img src="\assets\img\CityUHK Logo.webp" alt="faculty" />
+        <img src="\assets\img\SUSTech.webp" alt="faculty" />
     </div>
 </div>
 
