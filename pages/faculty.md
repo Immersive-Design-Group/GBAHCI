@@ -20,19 +20,19 @@ position: 2
 
 <div class="figure-grid">
     <div class="figure-grid-item">
-        <img src="\faculty\Prof.sun.webp" alt="faculty" />
-        <p class="image-caption">
-            <strong>Xiaohua Sun</strong><br/>
-            <span class="details">Chair Professor<br/>SUSTech School of Design</span>
-        </p>
-    </div>
-    <div class="figure-grid-item">
         <a href="https://shengdongzhao.com/" target="_blank"  class="image">
         <img src="\faculty\prof.zhao.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Shengdong Zhao</strong><br/>
             <span class="details">Professor<br/>CityU School of Creative Media and Computer Science Department</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <img src="\faculty\Prof.sun.webp" alt="faculty" />
+        <p class="image-caption">
+            <strong>Xiaohua Sun</strong><br/>
+            <span class="details">Chair Professor<br/>SUSTech School of Design</span>
         </p>
     </div>
     <div class="figure-grid-item">
