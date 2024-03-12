@@ -7,6 +7,49 @@
 <html lang="en">
   {% capture _head %}{% include default/head.liquid %}{% endcapture %}
   {{ _head | split: " " | join: " "}}
+
+  <head>
+    <style>
+        .logo-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr); /* Change from auto-fit to auto-fill */
+            gap: 5px; /* 添加间距 */
+        }
+    
+        @media screen and (max-width: 1024px) {
+            .logo-grid {
+                grid-template-columns: repeat(4, 1fr); /* Adjust column width for smaller screens */
+                gap: 5px; /* 添加间距 */
+            }
+        }
+    
+        @media screen and (max-width: 768px) {
+            .logo-grid {
+                grid-template-columns: repeat(3, 1fr); /* Adjust column width for smaller screens */
+                gap: 5px; /* 添加间距 */
+            }
+        }
+    
+        @media screen and (max-width: 480px) {
+            .logo-grid {
+                grid-template-columns: repeat(2, 1fr); /* Adjust column width for smaller screens */
+                gap: 5px; /* 添加间距 */
+            }
+        }
+    
+        .logo-grid img {
+            width: 100%; /* 使图片响应式 */
+            break-inside: avoid; /* 防止图片在列中断开 */
+        }
+    
+        .logo-grid a img {
+            display: block; /* 防止图片下方出现间隙 */
+            width: 100%; /* 使图片响应式 */
+            break-inside: avoid; /* 防止图片在列中断开 */
+        }
+    </style>
+  </head>
+
   <body>
     {% capture _navbar %}{% include default/navbar.liquid %}{% endcapture %}
     {{ _navbar | split: " " | join: " "}}

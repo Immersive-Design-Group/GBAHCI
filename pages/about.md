@@ -7,8 +7,14 @@ position: 1
 # tags: [Page]
 ---
 
-
-# Coming Soon!
+<div class="logo-grid">
+    <div class="logo-grid-item">
+        <img src="\assets\img\SUSTech.webp" alt="faculty" />
+    </div>
+    <div class="logo-grid-item">
+        <img src="\assets\img\CityUHK Logo.webp" alt="faculty" />
+    </div>
+</div>
 
 # About GBA
 

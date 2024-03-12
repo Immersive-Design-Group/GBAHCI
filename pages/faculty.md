@@ -7,7 +7,25 @@ permalink: /faculty/
 position: 2
 ---
 
+<div class="logo-react-grid">
+    <div class="logo-react-grid-item">
+        <img src="\assets\img\SUSTech.webp" alt="faculty" />
+    </div>
+    <div class="logo-react-grid-item">
+        <img src="\assets\img\CityUHK Logo.webp" alt="faculty" />
+    </div>
+</div>
+
+---
+
 <div class="figure-grid">
+    <div class="figure-grid-item">
+        <img src="\faculty\Prof.sun.webp" alt="faculty" />
+        <p class="image-caption">
+            <strong>Xiaohua Sun</strong><br/>
+            <span class="details">Chair Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
     <div class="figure-grid-item">
         <a href="https://shengdongzhao.com/" target="_blank"  class="image">
         <img src="\faculty\prof.zhao.webp" alt="faculty" />
@@ -27,15 +45,6 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
-        <a href="http://immersivedesignresearch.com/seungwoo" target="_blank"  class="image">
-        <img src="\faculty\Seung Woo Je.webp" alt="faculty" />
-        </a>
-        <p class="image-caption">
-            <strong>Seungwoo Je</strong><br/>
-            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
-        </p>
-    </div>
-    <div class="figure-grid-item">
         <a href="http://anpengcheng.cn" target="_blank"  class="image">
         <img src="\faculty\pengcheng.webp" alt="faculty" />
         </a>
@@ -45,29 +54,20 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="http://immersivedesignresearch.com/seungwoo" target="_blank"  class="image">
+        <img src="\faculty\Seung Woo Je.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Seungwoo Je</strong><br/>
+            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://xueliangseanli.github.io/Sean/" target="_blank"  class="image">
         <img src="\faculty\xueliang.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Xueliang Li</strong><br/>
-            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
-        </p>
-    </div>
-    <div class="figure-grid-item">
-        <a href="http://ixdlanguage.org" target="_blank"  class="image">
-        <img src="\faculty\Tao.webp" alt="faculty" />
-        </a>
-        <p class="image-caption">
-            <strong>Tao Luo</strong><br/>
-            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
-        </p>
-    </div>
-    <div class="figure-grid-item">
-        <a href="https://www2.kmd.keio.ac.jp/~ruowei.xiao/" target="_blank"  class="image">
-        <img src="\faculty\Ruowei.webp" alt="faculty" />
-        </a>
-        <p class="image-caption">
-            <strong>Ruowei Xiao</strong><br/>
             <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
         </p>
     </div>
@@ -90,12 +90,30 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="http://ixdlanguage.org" target="_blank"  class="image">
+        <img src="\faculty\Tao.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Tao Luo</strong><br/>
+            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://yuhanlolo.github.io/me/lab.html" target="_blank"  class="image">
         <img src="\faculty\prof.luo.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Yuhan Luo</strong><br/>
             <span class="details">Assistant Professor<br/>CityU Computer Science Department</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://www2.kmd.keio.ac.jp/~ruowei.xiao/" target="_blank"  class="image">
+        <img src="\faculty\Ruowei.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Ruowei Xiao</strong><br/>
+            <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
         </p>
     </div>
 </div>
