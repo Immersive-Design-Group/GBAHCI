@@ -14,6 +14,12 @@ position: 2
     <div class="logo-react-grid-item">
         <img src="\assets\img\SUSTech.webp" alt="faculty" />
     </div>
+    <div class="logo-react-grid-item">
+        <img src="\assets\img\PolyU.webp" alt="faculty" />
+    </div>
+    <div class="logo-react-grid-item">
+        <img src="\assets\img\STU.webp" alt="faculty" />
+    </div>
 </div>
 
 ---
@@ -36,6 +42,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://mayuxin.me/" target="_blank"  class="image">
+        <img src="\faculty\prof.ma.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Yuxin Ma</strong><br/>
+            <span class="details">Associate Professor<br/>SUSTech Department of Computer Science and Engineering</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://meilab-hk.github.io/" target="_blank"  class="image">
         <img src="\faculty\prof.zhu.webp" alt="faculty" />
         </a>
@@ -54,12 +69,30 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://taizhouchen.github.io/" target="_blank"  class="image">
+        <img src="\faculty\taizhou.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Taizhou Chen</strong><br/>
+            <span class="details">Assistant Professor<br/>STU</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="http://immersivedesignresearch.com/seungwoo" target="_blank"  class="image">
         <img src="\faculty\Seung Woo Je.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Seungwoo Je</strong><br/>
             <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://dccc-rg.github.io/" target="_blank"  class="image">
+        <img src="\faculty\blank.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Qinyuan Lei</strong><br/>
+            <span class="details">Assistant Professor<br/>CityU School of Creative Media</span>
         </p>
     </div>
     <div class="figure-grid-item">
@@ -108,12 +141,30 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://www.hailiang-design.com/" target="_blank"  class="image">
+        <img src="\faculty\hailiang.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Hailiang Wang</strong><br/>
+            <span class="details">Assistant Professor<br/>PolyU School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://www2.kmd.keio.ac.jp/~ruowei.xiao/" target="_blank"  class="image">
         <img src="\faculty\Ruowei.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Ruowei Xiao</strong><br/>
             <span class="details">Assistant Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="http://www.junnanyu.com/" target="_blank"  class="image">
+        <img src="\faculty\blank.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Junnan Yu</strong><br/>
+            <span class="details">Assistant Professor<br/>PolyU School of Design</span>
         </p>
     </div>
 </div>

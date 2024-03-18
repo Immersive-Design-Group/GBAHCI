@@ -14,6 +14,12 @@ position: 1
     <div class="logo-grid-item">
         <img src="\assets\img\SUSTech.webp" alt="faculty" />
     </div>
+    <div class="logo-grid-item">
+        <img src="\assets\img\PolyU.webp" alt="faculty" />
+    </div>
+    <div class="logo-grid-item">
+        <img src="\assets\img\STU.webp" alt="faculty" />
+    </div>
 </div>
 
 # About GBA
