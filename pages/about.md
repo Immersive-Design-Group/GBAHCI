@@ -20,6 +20,12 @@ position: 1
     <div class="logo-grid-item">
         <img src="\assets\img\STU.webp" alt="faculty" />
     </div>
+    <div class="logo-grid-item">
+        <img src="\assets\img\HKUST(GZ).webp" alt="faculty" />
+    </div>
+    <div class="logo-grid-item">
+        <img src="\assets\img\UM.png" alt="faculty" />
+    </div>
 </div>
 
 # About GBA

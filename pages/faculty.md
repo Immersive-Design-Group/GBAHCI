@@ -20,6 +20,12 @@ position: 2
     <div class="logo-react-grid-item">
         <img src="\assets\img\STU.webp" alt="faculty" />
     </div>
+    <div class="logo-react-grid-item">
+        <img src="\assets\img\HKUST(GZ).webp" alt="faculty" />
+    </div>
+    <div class="logo-react-grid-item">
+        <img src="\assets\img\UM.png" alt="faculty" />
+    </div>
 </div>
 
 ---
@@ -87,6 +93,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://recfro.github.io/" target="_blank"  class="image">
+        <img src="\faculty\RayLC.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>RAY LC</strong><br/>
+            <span class="details">Assistant Professor<br/>CityU School of Creative Media</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://dccc-rg.github.io/" target="_blank"  class="image">
         <img src="\faculty\qlei.webp" alt="faculty" />
         </a>
@@ -147,6 +162,24 @@ position: 2
         <p class="image-caption">
             <strong>Hailiang Wang</strong><br/>
             <span class="details">Assistant Professor<br/>PolyU School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://crab.ye.wang/" target="_blank"  class="image">
+        <img src="\faculty\Kanye.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Kanye Ye Wang</strong><br/>
+            <span class="details">Assistant Professor<br/>UM Department of Computer and Information Science</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://cislab.hkust-gz.edu.cn/members/zeyu-wang/" target="_blank"  class="image">
+        <img src="\faculty\Zeyu_Wang.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Zeyu Wang</strong><br/>
+            <span class="details">Assistant Professor<br/>HKUST (GZ)</span>
         </p>
     </div>
     <div class="figure-grid-item">

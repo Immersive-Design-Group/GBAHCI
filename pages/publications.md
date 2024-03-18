@@ -16,14 +16,14 @@ Piaohong Wang, Siying Hu, Bo Wen, Zhicong Lu <br/>
 Di Liu, Hanqing Zhou, Pengcheng An <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *SUSTech School of Design*
-- **AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip** <br/>
-Yuxin Ma, Tianze Xie, Peng Zhang, Hwan Kim, Seungwoo Je <br/>
-*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*SUSTech School of Design*
 - **A Game of Love for Women: Social Support in Otome Game Mr. Love: Queen’s Choice in China** <br/>
 Qinyuan Lei, Ran Tang, Hiu Man Ho, Han Zhou, Jingyi Guo, Zilu Tang <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *CityU School of Creative Media*
+- **AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip** <br/>
+Yuxin Ma, Tianze Xie, Peng Zhang, Hwan Kim, Seungwoo Je <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*SUSTech School of Design*
 - **ArmDeformation: Inducing the Sensation of Arm Deformation in Virtual Reality Using Skin-Stretching** <br/>
 Yilong Lin, Peng Zhang, Eyal Ofek, Seungwoo Je <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -64,3 +64,7 @@ Noah Cowit, Junnan Yu <br/>
 Baihui Chen, Xueliang Li <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *SUSTech School of Design*
+- **When Teams Embrace AI: Human Collaboration Strategies in Generative Prompting in a Creative Design Task** <br/>
+Yuanning Han, Ziyi Qiu, Jiale Cheng, RAY LC <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*CityU School of Creative Media*
