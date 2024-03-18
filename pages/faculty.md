@@ -88,7 +88,7 @@ position: 2
     </div>
     <div class="figure-grid-item">
         <a href="https://dccc-rg.github.io/" target="_blank"  class="image">
-        <img src="\faculty\blank.webp" alt="faculty" />
+        <img src="\faculty\qlei.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Qinyuan Lei</strong><br/>
@@ -160,7 +160,7 @@ position: 2
     </div>
     <div class="figure-grid-item">
         <a href="http://www.junnanyu.com/" target="_blank"  class="image">
-        <img src="\faculty\blank.webp" alt="faculty" />
+        <img src="\faculty\junnan.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Junnan Yu</strong><br/>
