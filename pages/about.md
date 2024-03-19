@@ -26,6 +26,12 @@ position: 1
     <div class="logo-grid-item">
         <img src="\assets\img\UM.png" alt="faculty" />
     </div>
+    <div class="logo-grid-item">
+        <img src="\assets\img\HKUST.webp" alt="faculty" />
+    </div>
+    <div class="logo-grid-item">
+        <img src="\assets\img\SYSU.webp" alt="faculty" />
+    </div>
 </div>
 
 # About GBA

@@ -28,10 +28,18 @@ Yuxin Ma, Tianze Xie, Peng Zhang, Hwan Kim, Seungwoo Je <br/>
 Yilong Lin, Peng Zhang, Eyal Ofek, Seungwoo Je <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *SUSTech School of Design*
+- **AudioXtend: Assisted Reality Visual Accompaniments for Audiobook Storytelling During Everyday Routine Tasks** <br/>
+Felicia Fang-Yi Tan, Peisen Xu, Ashwin Ram, Wei Zhen Suen, Shengdong Zhao, Yun Huang, Christophe Hurter <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*CityU School of Creative Media and Computer Science Department*
 - **Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin** <br/>
 Huanchen Wang, Minzhu Zhao, Wanyang Hu, Yuxin Ma, Zhicong Lu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *CityU Computer Science Department*
+- **Dances with Drones: Spatial Matching and Perceived Agency in Improvised Movements with Drone and Human Partners** <br/>
+Kaixu Dong, Zhiyuan Zhang, Xiaoyu Chang, Pakpong Chirarattananon, RAY LC <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*CityU School of Creative Media*
 - **Emotion Embodied: Unveiling the Expressive Potential of Single-Hand Gestures** <br/>
 Yuhan Luo, Junnan Yu, Minhui Liang, Yichen Wan, Kening Zhu, Shannon Sie Santosa <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -40,10 +48,34 @@ Yuhan Luo, Junnan Yu, Minhui Liang, Yichen Wan, Kening Zhu, Shannon Sie Santosa 
 Pengcheng An, Jiawen Stefanie Zhu, Zibo Zhang, Yifei Yin, Qingyuan Ma, Che Yan, Linghao Du, Jian Zhao <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *SUSTech School of Design*
+- **Eternagram: Probing Player Attitudes in Alternate Climate Scenarios Through a ChatGPT-Driven Text Adventure** <br/>
+Suifang Zhou, Latisha Besariani Hendra, Qinshi Zhang, Jussi Holopainen, RAY LC <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*CityU School of Creative Media*
+- **Facilitating Virtual Reality Integration in Medical Education: A Case Study of Acceptability and Learning Impact in Childbirth Delivery Training** <br/>
+Chang Liu, Felicia Fang-Yi Tan, Shengdong Zhao, Abhiram Kanneganti, Gosavi Arundhati Tushar, Eng Tat Khoo <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*CityU School of Creative Media and Computer Science Department*
+- **Heads-Up Multitasker: Simulating Attention Switching On Optical Head-Mounted Displays** <br/>
+Yunpeng Bai, Aleksi Ikkala, Antti Oulasvirta, Shengdong Zhao, Lucia J Wang, Pengzhi Yang, Peisen Xu <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*CityU School of Creative Media and Computer Science Department*
 - **Metamorpheus: Interactive, Affective, and Creative Dream Narration Through Metaphorical Visual Storytelling** <br/>
 Qian Wan, Xin Feng, Yining Bei, Zhiqi Gao, Zhicong Lu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *CityU Computer Science Department*
+- **Navigating Real-World Challenges: A Quadruped Robot Guiding System for Visually Impaired People in Diverse Environments** <br/>
+Shaojun Cai, Ashwin Ram, Zhengtai Gou, Mohd Alqama Wasim Shaikh, Yu-An Chen, Yingjia Wan, Kotaro Hara, Shengdong Zhao, David Hsu <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*CityU School of Creative Media and Computer Science Department*
+- **Neural Canvas: Supporting Scenic Design Prototyping by Integrating 3D Sketching and Generative AI** <br/>
+Yulin Shen, Yifei Shen, Jiawen Cheng, Chutian Jiang, Mingming Fan, Zeyu Wang <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*HKUST (GZ)*
+- **PANDALens: Towards AI-Assisted In-Context Writing on OHMD During Travels** <br/>
+Runze Cai, Nuwan Janaka, Yang Chen, Lucia Wang, Shengdong Zhao, Can Liu <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*CityU School of Creative Media and Computer Science Department*
 - **Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape** <br/>
 Junnan Yu, Xiang Qi, Siqi Yang <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -64,6 +96,10 @@ Noah Cowit, Junnan Yu <br/>
 Baihui Chen, Xueliang Li <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *SUSTech School of Design*
+- **Understanding User-Perceived Security Risks and Mitigation Strategies in the Web3 Ecosystem** <br>
+Janice Jianing Si, Tanusree Sharma, Kanye Ye Wang <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*UM Department of Computer and Information Science*
 - **When Teams Embrace AI: Human Collaboration Strategies in Generative Prompting in a Creative Design Task** <br/>
 Yuanning Han, Ziyi Qiu, Jiale Cheng, RAY LC <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>

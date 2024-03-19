@@ -26,11 +26,26 @@ position: 2
     <div class="logo-react-grid-item">
         <img src="\assets\img\UM.png" alt="faculty" />
     </div>
+    <div class="logo-react-grid-item">
+        <img src="\assets\img\HKUST.webp" alt="faculty" />
+    </div>
+    <div class="logo-react-grid-item">
+        <img src="\assets\img\SYSU.webp" alt="faculty" />
+    </div>
 </div>
 
 ---
 
 <div class="figure-grid">
+    <div class="figure-grid-item">
+        <a href="https://scholars.cityu.edu.hk/en/persons/fui-hoon-nah(e1d09bdd-d6a7-4b06-b4af-a498bfe1e8cd).html" target="_blank"  class="image">
+        <img src="\faculty\Fiona_Nah.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Fiona Nah</strong><br/>
+            <span class="details">Professor<br/>CityU Department of Media and Communication & Department of Information Systems</span>
+        </p>
+    </div>
     <div class="figure-grid-item">
         <a href="https://shengdongzhao.com/" target="_blank"  class="image">
         <img src="\faculty\prof.zhao.webp" alt="faculty" />
@@ -45,6 +60,15 @@ position: 2
         <p class="image-caption">
             <strong>Xiaohua Sun</strong><br/>
             <span class="details">Chair Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://home.cse.ust.hk/~mxj/" target="_blank"  class="image">
+        <img src="\faculty\profileIM-XM7.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Xiaojuan Ma</strong><br/>
+            <span class="details">Associate Professor<br/>HKUST Computer Science and Engineering</span>
         </p>
     </div>
     <div class="figure-grid-item">
@@ -81,6 +105,15 @@ position: 2
         <p class="image-caption">
             <strong>Taizhou Chen</strong><br/>
             <span class="details">Assistant Professor<br/>STU</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://www.mingmingfan.com/lab/" target="_blank"  class="image">
+        <img src="\faculty\mingming-fan-low-res-800-800.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Mingming Fan</strong><br/>
+            <span class="details">Assistant Professor<br/>HKUST (GZ)</span>
         </p>
     </div>
     <div class="figure-grid-item">
@@ -153,6 +186,15 @@ position: 2
         <p class="image-caption">
             <strong>Yuhan Luo</strong><br/>
             <span class="details">Assistant Professor<br/>CityU Computer Science Department</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://zhenhuipeng.com/" target="_blank"  class="image">
+        <img src="\faculty\me-d.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Zhenhui Peng</strong><br/>
+            <span class="details">Assistant Professor<br/>SYSU School of Artificial Intelligence</span>
         </p>
     </div>
     <div class="figure-grid-item">
