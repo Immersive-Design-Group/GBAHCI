@@ -56,6 +56,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="http://huamin.org/" target="_blank"  class="image">
+        <img src="\faculty\huamin_qu_new.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Huamin Qu</strong><br/>
+            <span class="details">Chair Professor<br/>HKUST</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <img src="\faculty\Prof.sun.webp" alt="faculty" />
         <p class="image-caption">
             <strong>Xiaohua Sun</strong><br/>
