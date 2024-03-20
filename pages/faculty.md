@@ -38,6 +38,22 @@ position: 2
 
 <div class="figure-grid">
     <div class="figure-grid-item">
+        <a href="http://huamin.org/" target="_blank"  class="image">
+        <img src="\faculty\huamin_qu_new.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Huamin Qu</strong><br/>
+            <span class="details">Chair Professor<br/>HKUST</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <img src="\faculty\Prof.sun.webp" alt="faculty" />
+        <p class="image-caption">
+            <strong>Xiaohua Sun</strong><br/>
+            <span class="details">Chair Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://scholars.cityu.edu.hk/en/persons/fui-hoon-nah(e1d09bdd-d6a7-4b06-b4af-a498bfe1e8cd).html" target="_blank"  class="image">
         <img src="\faculty\Fiona_Nah.webp" alt="faculty" />
         </a>
@@ -53,22 +69,6 @@ position: 2
         <p class="image-caption">
             <strong>Shengdong Zhao</strong><br/>
             <span class="details">Professor<br/>CityU School of Creative Media and Computer Science Department</span>
-        </p>
-    </div>
-    <div class="figure-grid-item">
-        <a href="http://huamin.org/" target="_blank"  class="image">
-        <img src="\faculty\huamin_qu_new.webp" alt="faculty" />
-        </a>
-        <p class="image-caption">
-            <strong>Huamin Qu</strong><br/>
-            <span class="details">Chair Professor<br/>HKUST</span>
-        </p>
-    </div>
-    <div class="figure-grid-item">
-        <img src="\faculty\Prof.sun.webp" alt="faculty" />
-        <p class="image-caption">
-            <strong>Xiaohua Sun</strong><br/>
-            <span class="details">Chair Professor<br/>SUSTech School of Design</span>
         </p>
     </div>
     <div class="figure-grid-item">
