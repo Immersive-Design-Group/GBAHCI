@@ -153,6 +153,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://scholars.cityu.edu.hk/en/persons/zhiyin-li(a9ea6d52-1195-46b0-8bca-f0072ea61a8b).html" target="_blank"  class="image">
+        <img src="\faculty\zhiyin_li.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Zhiyin Li</strong><br/>
+            <span class="details">Assistant Professor<br/>CityU Department of Information Systems</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://sweb.cityu.edu.hk/canliu/team.html" target="_blank"  class="image">
         <img src="\faculty\prof.liu.webp" alt="faculty" />
         </a>
