@@ -55,7 +55,7 @@ Suifang Zhou, Latisha Besariani Hendra, Qinshi Zhang, Jussi Holopainen, RAY LC <
 - **Exploring the Opportunity of Augmented Reality (AR) in Supporting Older Adults Explore and Learn Smartphone Applications** <br/>
 Xiaofu Jin, Wai Tong, Xiaoying Wei, Xian Wang, Emily Kuang, Xiaoyu Mo, Huamin Qu, Mingming Fan <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*HKUST (GZ)*
+*HKUST*
 - **Facilitating Virtual Reality Integration in Medical Education: A Case Study of Acceptability and Learning Impact in Childbirth Delivery Training** <br/>
 Chang Liu, Felicia Fang-Yi Tan, Shengdong Zhao, Abhiram Kanneganti, Gosavi Arundhati Tushar, Eng Tat Khoo <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -79,7 +79,7 @@ Yulin Shen, Yifei Shen, Jiawen Cheng, Chutian Jiang, Mingming Fan, Zeyu Wang <br
 - **OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines** <br/>
 Fengjie Wang, Yanna Lin, Leni Yang, Haotian Li, Mingyang Gu, Min Zhu, Huamin Qu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*HKUST (GZ)*
+*HKUST*
 - **PANDALens: Towards AI-Assisted In-Context Writing on OHMD During Travels** <br/>
 Runze Cai, Nuwan Janaka, Yang Chen, Lucia Wang, Shengdong Zhao, Can Liu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -111,7 +111,7 @@ Janice Jianing Si, Tanusree Sharma, Kanye Ye Wang <br/>
 - **VAID: Indexing View Designs in Visual Analytics System** <br/>
 Lu Ying, Aoyu Wu, Haotian Li, Zikun Deng, Ji Lan, Jiang Wu, Yong Wang, Huamin Qu, Dazhen Deng, Yingcai Wu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*HKUST (GZ)*
+*HKUST*
 - **When Teams Embrace AI: Human Collaboration Strategies in Generative Prompting in a Creative Design Task** <br/>
 Yuanning Han, Ziyi Qiu, Jiale Cheng, RAY LC <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -119,4 +119,4 @@ Yuanning Han, Ziyi Qiu, Jiale Cheng, RAY LC <br/>
 - **Where Are We So Far? Understanding Data Storytelling Tools from the Perspective of Human-AI Collaboration** <br/>
 Haotian Li, Yun Wang, Huamin Qu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*HKUST (GZ)*
+*HKUST*
