@@ -153,7 +153,7 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
-        <a href="https://xueliangseanli.github.io/Sean/" target="_blank"  class="image">
+        <a href="https://www.hci-xgroup.com/" target="_blank"  class="image">
         <img src="\faculty\xueliang.webp" alt="faculty" />
         </a>
         <p class="image-caption">
