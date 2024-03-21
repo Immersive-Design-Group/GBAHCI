@@ -32,6 +32,9 @@ position: 2
     <div class="logo-react-grid-item">
         <img src="\assets\img\SYSU.webp" alt="faculty" />
     </div>
+    <div class="logo-react-grid-item">
+        <img src="\assets\img\SZU.webp" alt="faculty" />
+    </div>
 </div>
 
 ---
@@ -213,6 +216,15 @@ position: 2
         <p class="image-caption">
             <strong>Zhenhui Peng</strong><br/>
             <span class="details">Assistant Professor<br/>SYSU School of Artificial Intelligence</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://zhdsun.github.io/" target="_blank"  class="image">
+        <img src="\faculty\zhida.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Zhida Sun</strong><br/>
+            <span class="details">Assistant Professor<br/>SZU College of Computer Science and Software Engineering</span>
         </p>
     </div>
     <div class="figure-grid-item">
