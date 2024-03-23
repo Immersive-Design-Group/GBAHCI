@@ -31,7 +31,7 @@ Yilong Lin, Peng Zhang, Eyal Ofek, Seungwoo Je <br/>
 - **AudioXtend: Assisted Reality Visual Accompaniments for Audiobook Storytelling During Everyday Routine Tasks** <br/>
 Felicia Fang-Yi Tan, Peisen Xu, Ashwin Ram, Wei Zhen Suen, Shengdong Zhao, Yun Huang, Christophe Hurter <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*CityU School of Creative Media and Computer Science Department*
+*CityU School of Creative Media and Computer Science Department* [[PDF](\publications\Shengdong\AudioXtend.pdf)]
 - **Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin** <br/>
 Huanchen Wang, Minzhu Zhao, Wanyang Hu, Yuxin Ma, Zhicong Lu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -59,11 +59,11 @@ Xiaofu Jin, Wai Tong, Xiaoying Wei, Xian Wang, Emily Kuang, Xiaoyu Mo, Huamin Qu
 - **Facilitating Virtual Reality Integration in Medical Education: A Case Study of Acceptability and Learning Impact in Childbirth Delivery Training** <br/>
 Chang Liu, Felicia Fang-Yi Tan, Shengdong Zhao, Abhiram Kanneganti, Gosavi Arundhati Tushar, Eng Tat Khoo <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*CityU School of Creative Media and Computer Science Department*
+*CityU School of Creative Media and Computer Science Department* [[PDF](\publications\Shengdong\Facilitating Virtual.pdf)]
 - **Heads-Up Multitasker: Simulating Attention Switching On Optical Head-Mounted Displays** <br/>
 Yunpeng Bai, Aleksi Ikkala, Antti Oulasvirta, Shengdong Zhao, Lucia J Wang, Pengzhi Yang, Peisen Xu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*CityU School of Creative Media and Computer Science Department*
+*CityU School of Creative Media and Computer Science Department* [[PDF](\publications\Shengdong\Heads-Up.pdf)]
 - **Metamorpheus: Interactive, Affective, and Creative Dream Narration Through Metaphorical Visual Storytelling** <br/>
 Qian Wan, Xin Feng, Yining Bei, Zhiqi Gao, Zhicong Lu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -71,7 +71,7 @@ Qian Wan, Xin Feng, Yining Bei, Zhiqi Gao, Zhicong Lu <br/>
 - **Navigating Real-World Challenges: A Quadruped Robot Guiding System for Visually Impaired People in Diverse Environments** <br/>
 Shaojun Cai, Ashwin Ram, Zhengtai Gou, Mohd Alqama Wasim Shaikh, Yu-An Chen, Yingjia Wan, Kotaro Hara, Shengdong Zhao, David Hsu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*CityU School of Creative Media and Computer Science Department*
+*CityU School of Creative Media and Computer Science Department* [[PDF](\publications\Shengdong\Navigating Real-World.pdf)]
 - **Neural Canvas: Supporting Scenic Design Prototyping by Integrating 3D Sketching and Generative AI** <br/>
 Yulin Shen, Yifei Shen, Jiawen Cheng, Chutian Jiang, Mingming Fan, Zeyu Wang <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -83,7 +83,7 @@ Fengjie Wang, Yanna Lin, Leni Yang, Haotian Li, Mingyang Gu, Min Zhu, Huamin Qu 
 - **PANDALens: Towards AI-Assisted In-Context Writing on OHMD During Travels** <br/>
 Runze Cai, Nuwan Janaka, Yang Chen, Lucia Wang, Shengdong Zhao, Can Liu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*CityU School of Creative Media and Computer Science Department*
+*CityU School of Creative Media and Computer Science Department* [[PDF](\publications\Shengdong\PANDALens.pdf)]
 - **Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape** <br/>
 Junnan Yu, Xiang Qi, Siqi Yang <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
