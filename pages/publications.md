@@ -19,7 +19,7 @@ Di Liu, Hanqing Zhou, Pengcheng An <br/>
 - **A Game of Love for Women: Social Support in Otome Game Mr. Love: Queen’s Choice in China** <br/>
 Qinyuan Lei, Ran Tang, Hiu Man Ho, Han Zhou, Jingyi Guo, Zilu Tang <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
-*CityU School of Creative Media*
+*CityU School of Creative Media* [[PDF](\publications\Qinyuan\Social Support in Otome Game Mr. Love_Lei.pdf)]
 - **AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip** <br/>
 Yuxin Ma, Tianze Xie, Peng Zhang, Hwan Kim, Seungwoo Je <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
