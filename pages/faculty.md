@@ -75,6 +75,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://cybsec.jnu.edu.cn/2023/1120/c39593a781901/page.htm" target="_blank"  class="image">
+        <img src="\faculty\Boyu.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>BoYu Gao</strong><br/>
+            <span class="details">Associate Professor<br/>JNU College of Cyber Security, Guangdong Institute of Smart Education</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://home.cse.ust.hk/~mxj/" target="_blank"  class="image">
         <img src="\faculty\profileIM-XM7.webp" alt="faculty" />
         </a>
@@ -269,6 +278,24 @@ position: 2
         </a>
         <p class="image-caption">
             <strong>Junnan Yu</strong><br/>
+            <span class="details">Assistant Professor<br/>PolyU School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://zeng-wei.com/" target="_blank"  class="image">
+        <img src="\faculty\Zengwei.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Wei Zeng</strong><br/>
+            <span class="details">Assistant Professor<br/>HKUST (GZ)</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
+        <a href="https://www.polyu.edu.hk/sd/people/academic-staff/zhou-zhibin/" target="_blank"  class="image">
+        <img src="\faculty\ZHOUZhibin.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Zhibin Zhou</strong><br/>
             <span class="details">Assistant Professor<br/>PolyU School of Design</span>
         </p>
     </div>
