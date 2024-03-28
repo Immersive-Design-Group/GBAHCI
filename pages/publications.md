@@ -8,6 +8,10 @@ position: 3
 ---
 
 # 2024
+- **"Make Interaction Situated": Designing User Acceptable Interaction for Situated Visualization in Public Environments** <br/>
+Qian Zhu, Zhuo Wang, Wei Zeng, Wai Tong, Weiyue Lin, Xiaojuan Ma <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*HKUST (GZ), HKUST* [[PDF](\publications\Xiaojuan\Make Interaction Situated.pdf)]
 - **"There is a Job Prepared for Me Here": Understanding How Short Video and Live-streaming Platforms Empower Ageing Job Seekers in China** <br/>
 Piaohong Wang, Siying Hu, Bo Wen, Zhicong Lu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -32,6 +36,10 @@ Yilong Lin, Peng Zhang, Eyal Ofek, Seungwoo Je <br/>
 Felicia Fang-Yi Tan, Peisen Xu, Ashwin Ram, Wei Zhen Suen, Shengdong Zhao, Yun Huang, Christophe Hurter <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *CityU School of Creative Media and Computer Science Department* [[PDF](\publications\Shengdong\AudioXtend.pdf)]
+- **C2Ideas: Supporting Creative Interior Color Design Ideation with Large Language Model** <br/>
+Yihan Hou, Manling Yang, Hao Cui, Lei Wang, Jie Xu, Wei Zeng <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*HKUST (GZ)* [[PDF](\publications\Wei Zeng\C2Ideas- Supporting Creative Interior Color Design Ideation with Large Language Model.pdf)]
 - **Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin** <br/>
 Huanchen Wang, Minzhu Zhao, Wanyang Hu, Yuxin Ma, Zhicong Lu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -48,6 +56,10 @@ Yuhan Luo, Junnan Yu, Minhui Liang, Yichen Wan, Kening Zhu, Shannon Sie Santosa 
 Pengcheng An, Jiawen Stefanie Zhu, Zibo Zhang, Yifei Yin, Qingyuan Ma, Che Yan, Linghao Du, Jian Zhao <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *SUSTech School of Design*
+- **Emotion Embodied: Unveiling the Expressive Potential of Single-Hand Gestures.** <br/>
+Yuhan Luo, Junnan Yu, Minhui Liang, Yichen Wan, Kening Zhu, Shannon Sie Santosa <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*CityU  Computer Science Department*
 - **Eternagram: Probing Player Attitudes in Alternate Climate Scenarios Through a ChatGPT-Driven Text Adventure** <br/>
 Suifang Zhou, Latisha Besariani Hendra, Qinshi Zhang, Jussi Holopainen, RAY LC <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -64,6 +76,10 @@ Chang Liu, Felicia Fang-Yi Tan, Shengdong Zhao, Abhiram Kanneganti, Gosavi Arund
 Yunpeng Bai, Aleksi Ikkala, Antti Oulasvirta, Shengdong Zhao, Lucia J Wang, Pengzhi Yang, Peisen Xu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *CityU School of Creative Media and Computer Science Department* [[PDF](\publications\Shengdong\Heads-Up.pdf)]
+- **IntentTuner: An Interactive Framework for Integrating Human Intentions in Fine-tuning Text-to-Image Generative Models** <br/>
+Xingchen Zeng, Ziyao Gao, Yilin Ye, Wei Zeng <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*HKUST (GZ)* [[PDF](\publications\Wei Zeng\IntentTuner- An Interactive Framework for Integrating Human Intentions in Fine-tuning Text-to-Image Generative Models.pdf)]
 - **Metamorpheus: Interactive, Affective, and Creative Dream Narration Through Metaphorical Visual Storytelling** <br/>
 Qian Wan, Xin Feng, Yining Bei, Zhiqi Gao, Zhicong Lu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -88,6 +104,10 @@ Runze Cai, Nuwan Janaka, Yang Chen, Lucia Wang, Shengdong Zhao, Can Liu <br/>
 Junnan Yu, Xiang Qi, Siqi Yang <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *PolyU School of Design*
+- **PlantoGraphy: Incoporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering** <br/>
+Rong Huang, Haichuan Lin, Chuanzhang Chen, Kang Zhang, Wei Zeng <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*HKUST (GZ)* [[PDF](\publications\Wei Zeng\PlantoGraphy- Incoporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering.pdf)]
 - **Seeking Soulmate via Voice: Understanding Promises and Challenges of Online Synchronized Voice-Based Mobile Dating** <br/>
 Chenxinran Shen, Yan Xu, Ray LC, Zhicong Lu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -100,6 +120,10 @@ Zhuoyang Li*, Minhui Liang*, Ray LC, Yuhan Luo <br/>
 Noah Cowit, Junnan Yu <br/>
 *In Extended Abstracts of the CHI Conference on Human Factors in ComputingSystems (CHI EA '24)* <br/>
 *PolyU School of Design*
+- **TypeDance: Creating Semantic Typographic Logos from Image through Personalized Generation** <br/>
+Shishi Xiao, Liangwei Wang, Xiaojuan Ma, Wei Zeng <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*HKUST (GZ)* [[PDF](\publications\Wei Zeng\TypeDance- Creating Semantic Typographic Logos from Image through Personalized Generation.pdf)]
 - **Understanding Socio-technical Opportunities for Enhancing Communication Between Older Adults and their Remote Family** <br/>
 Baihui Chen, Xueliang Li <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
@@ -112,6 +136,10 @@ Janice Jianing Si, Tanusree Sharma, Kanye Ye Wang <br/>
 Lu Ying, Aoyu Wu, Haotian Li, Zikun Deng, Ji Lan, Jiang Wu, Yong Wang, Huamin Qu, Dazhen Deng, Yingcai Wu <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
 *HKUST*
+- **VirtuWander: Enhancing Multi-modal Interaction for Virtual Tour Guidance through Large Language Models** <br/>
+Zhan Wang, Linping Yuan, Liangwei Wang, Bingchuan Jiang, Wei Zeng <br/>
+*Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
+*HKUST (GZ)* [[PDF](\publications\Wei Zeng\VirtuWander- Enhancing Multi-modal Interaction for Virtual Tour Guidance through Large Language Models.pdf)]
 - **When Teams Embrace AI: Human Collaboration Strategies in Generative Prompting in a Creative Design Task** <br/>
 Yuanning Han, Ziyi Qiu, Jiale Cheng, RAY LC <br/>
 *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI' 2024)* <br/>
