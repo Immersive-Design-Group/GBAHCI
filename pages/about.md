@@ -35,6 +35,9 @@ position: 1
     <div class="logo-grid-item">
         <img src="\assets\img\SZU.webp" alt="faculty" />
     </div>
+    <div class="logo-grid-item">
+        <img src="\assets\img\JNU_logo.webp" alt="faculty" />
+    </div>
 </div>
 
 # About GBA
