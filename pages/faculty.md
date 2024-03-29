@@ -53,7 +53,9 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a class="image">
         <img src="\faculty\Prof.sun.webp" alt="faculty" />
+        </a>
         <p class="image-caption">
             <strong>Xiaohua Sun</strong><br/>
             <span class="details">Chair Professor<br/>SUSTech School of Design</span>
