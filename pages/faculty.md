@@ -301,7 +301,7 @@ position: 2
         </a>
         <p class="image-caption">
             <strong>Zhibin Zhou</strong><br/>
-            <span class="details">Assistant Professor<br/>PolyU School of Design</span>
+            <span class="details">Research Assistant Professor <br/>PolyU School of Design</span>
         </p>
     </div>
 </div>
