@@ -18,3 +18,21 @@ This symposium is internally organized with participants initially communicated 
 本研讨会旨在为中国大湾区的人机交互（HCI）研究者提供一个分享他们近期研究工作的平台，这些工作包括即将在ACM CHI2024 会议上发表的论文成果以及其他在HCI相关会议（如USIT、CSCW、Ubicomp等）已发表的工作。正如此次活动的名称所示，我们期望这是为即将在ACM CHI会议上发表论文的作者们提供一个舞台，同时也欢迎在HCI会议上有发表记录的其他研究者参与。我们还会组织海报展示会，为那些正在进行和尚未提交的研究工作提供展示空间。该活动为期一天，只限现场参与，没有虚拟参与选项，也不会出版论文集。
 
 该研讨会由大湾区内的研究机构内部组织，参与者最初来自这些机构。然而，我们期望我们的社群通过纳入其他机构和领域的研究者和从业者而不断壮大。如果您有兴趣参与此活动或成为该社群的一部分，请联系我们。
+
+# Committees
+## Conference General Co-Chairs
+- [Mingming Fan](https://www.mingmingfan.com/lab/) (HKUST (GZ))
+- [Shengdong Zhao](https://shengdongzhao.com/) (CityU)
+
+## Doctoral Consortium Chairs
+- [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/) (CityU)
+
+## Award Chairs
+- [Junnan Yu](http://www.junnanyu.com/) (PolyU)
+
+## Publicity Chairs
+- [Seungwoo Je](http://immersivedesignresearch.com/seungwoo) (SUSTech)
+
+## Student Volunteer Co-Chairs
+- Ellen 
+- Xi
