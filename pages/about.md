@@ -56,6 +56,13 @@ With its strategic global position, exceptional infrastructure, and commitment t
 
 凭借其全球战略地位、卓越的基础设施以及对推动技术进步的承诺，大湾区是举办人机交互交流活动的理想场所，你的到来将会激发、创新和影响人机交互的未来。让我们齐聚大湾区，庆祝创新的力量和探索精神，正是它们定义了我们充满活力的 HCI 社区。
 
+# Events and organizers|活动与组织方
+Below are the schedules and corresponding committees for the upcoming events hosted by us:<br/>
+以下是近期由我们组织的活动日程和其他相关信息：
+
+| Date | Event | Organizational committees | Geral Chair | Location | Participation  |
+| --- | --- | --- | --- | --- | --- |
+| 2024.4.27 | Pre-CHI symposium in Greater Bay | City University of Hong Kong; Hong Kong University of Science and Technology, Guangzhou; Southern University of Science and Technology | [Mingming Fan](https://www.mingmingfan.com/lab/), [Shengdong Zhao](https://shengdongzhao.com/) | | Internal events |
 
 # How to participate?
 

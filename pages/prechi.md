@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: page_customize
 title: Pre-CHI
+ctitle: GBA HCI Forum Pre-CHI 2024
 permalink: /prechi/
-position: 5
+position: 4
 # feature-img: "assets/img/pexels/travel.jpeg"
 # tags: [Page]
 ---
 
-# About the Symposium|关于此次活动
+# About the Forum|关于此次活动
 
 This symposium aims to provide an opportunities for HCI researchers based in Greater Bay Area of China to share their work that are in work-in-progress, to be published or have been pulbished at latest or upcoming HCI venues (such as ACM CHI, USIT, CSCW, Ubicomp, etc.). As the name indicates, we expect this to be a stage for authors-to-be in the upcoming ACM CHI Conference while inviting other researchers who have publication records in HCI conferences. This event is a one-day, on-site exclusive experience without options for virtual participation, and no proceedings will be published.
 
@@ -33,6 +34,11 @@ This symposium is internally organized with participants initially communicated 
 ## Publicity Chairs
 - [Seungwoo Je](http://immersivedesignresearch.com/seungwoo) (SUSTech)
 
+## Planning Committee 
+- [Pengcheng An](http://anpengcheng.cn) (SUSTech)
+- [Xueliang Li](https://www.hci-xgroup.com/) (SUSTech)
+- [Seungwoo Je](http://immersivedesignresearch.com/seungwoo) (SUSTech)
+
 ## Student Volunteer Co-Chairs
-- Ellen 
-- Xi
+- Xi Zheng: <a href="mailto:xi.zheng@cityu.edu.hk">xi.zheng@cityu.edu.hk</a>
+- Zhuoyang (Ellen) Li: <a href="mailto:ellen.li@cityu.edu.hk">ellen.li@cityu.edu.hk</a>

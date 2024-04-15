@@ -3,7 +3,7 @@ layout: page_customize
 title: Doctoral Consortium
 ctitle: Doctoral Consortium (Pre-CHI)
 permalink: /doctoral/
-position: 6
+position: 5
 # feature-img: "assets/img/pexels/travel.jpeg"
 # tags: [Page]
 ---

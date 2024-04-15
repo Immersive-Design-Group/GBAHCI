@@ -9,6 +9,10 @@
   {{ _head | split: " " | join: " "}}
 
   <head>
+    <!-- font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <style>
         .logo-grid {
             display: grid;
@@ -46,6 +50,26 @@
             display: block; /* 防止图片下方出现间隙 */
             width: 100%; /* 使图片响应式 */
             break-inside: avoid; /* 防止图片在列中断开 */
+        }
+
+        /* font */
+        .noto-sans sc-noto-sans {
+            font-family: "Noto Sans SC", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 900;
+            font-style: normal;
+        }
+
+        .noto-sans-regular {
+            font-family: "Noto Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+            font-variation-settings: "wdth" 100;
+        }
+
+        body {
+            font-family: "Noto Sans", "Noto Sans SC", sans-serif;
         }
     </style>
   </head>
