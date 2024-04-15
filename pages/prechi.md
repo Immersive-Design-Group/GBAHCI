@@ -10,9 +10,9 @@ position: 4
 
 # About the Forum|关于此次活动
 
-This symposium aims to provide an opportunities for HCI researchers based in Greater Bay Area of China to share their work that are in work-in-progress, to be published or have been pulbished at latest or upcoming HCI venues (such as ACM CHI, USIT, CSCW, Ubicomp, etc.). As the name indicates, we expect this to be a stage for authors-to-be in the upcoming ACM CHI Conference while inviting other researchers who have publication records in HCI conferences. This event is a one-day, on-site exclusive experience without options for virtual participation, and no proceedings will be published.
+This forum aims to provide an opportunities for HCI researchers based in Greater Bay Area of China to share their work that are in work-in-progress, to be published or have been pulbished at latest or upcoming HCI venues (such as ACM CHI, USIT, CSCW, Ubicomp, etc.). As the name indicates, we expect this to be a stage for authors-to-be in the upcoming ACM CHI Conference while inviting other researchers who have publication records in HCI conferences. This event is a one-day, on-site exclusive experience without options for virtual participation, and no proceedings will be published.
 
-This symposium is internally organized with participants initially communicated from within the collaborative institutions in Greater Bay Area of China.  However, we expect our community will grow by including other researchers and practitioners from organizations and areas. If you are interested in participating this event or being part of this community, please contact us.
+This forum is internally organized with participants initially communicated from within the collaborative institutions in Greater Bay Area of China.  However, we expect our community will grow by including other researchers and practitioners from organizations and areas. If you are interested in participating this event or being part of this community, please contact us.
 
 ---
 
@@ -22,8 +22,8 @@ This symposium is internally organized with participants initially communicated 
 
 # Committees
 ## Conference General Co-Chairs
-- [Mingming Fan](https://www.mingmingfan.com/lab/) (HKUST (GZ))
 - [Shengdong Zhao](https://shengdongzhao.com/) (CityU)
+- [Mingming Fan](https://www.mingmingfan.com/lab/) (HKUST (GZ))
 
 ## Doctoral Consortium Chairs
 - [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/) (CityU)
@@ -40,5 +40,5 @@ This symposium is internally organized with participants initially communicated 
 - [Seungwoo Je](http://immersivedesignresearch.com/seungwoo) (SUSTech)
 
 ## Student Volunteer Co-Chairs
-- Xi Zheng: <a href="mailto:xi.zheng@cityu.edu.hk">xi.zheng@cityu.edu.hk</a>
-- Zhuoyang (Ellen) Li: <a href="mailto:ellen.li@cityu.edu.hk">ellen.li@cityu.edu.hk</a>
+- <a href="mailto:xi.zheng@cityu.edu.hk">Xi Zheng</a>
+- <a href="mailto:ellen.li@cityu.edu.hk">huoyang (Ellen) Li</a>

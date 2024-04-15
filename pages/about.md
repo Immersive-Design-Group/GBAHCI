@@ -62,7 +62,7 @@ Below are the schedules and corresponding committees for the upcoming events hos
 
 | Date | Event | Organizational committees | Geral Chair | Location | Participation  |
 | --- | --- | --- | --- | --- | --- |
-| 2024.4.27 | Pre-CHI symposium in Greater Bay | City University of Hong Kong; Hong Kong University of Science and Technology, Guangzhou; Southern University of Science and Technology | [Mingming Fan](https://www.mingmingfan.com/lab/), [Shengdong Zhao](https://shengdongzhao.com/) | | Internal events |
+| 2024.4.27 | GBA HCI Forum Pre-CHI 2024 | City University of Hong Kong; Hong Kong University of Science and Technology, Guangzhou; Southern University of Science and Technology | [Shengdong Zhao](https://shengdongzhao.com/), [Mingming Fan](https://www.mingmingfan.com/lab/) | | Internal events |
 
 # How to participate?
 

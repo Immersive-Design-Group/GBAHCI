@@ -14,7 +14,7 @@ position: 5
 
 
 # CALL FOR PARTICIPATION
-The Doctoral Consortium (DC) of Pre-CHI symposium in Greater Bay provides an opportunity for doctoral students in the Greater Bay Area to discuss their research in a forum under the guidance of a panel of experienced HCI researchers. The DC will be held on April 27, 2024 as part of the pre-CHI event. Participants will be asked to give a presentation during the DC. They will receive feedback from mentors and coaches. 
+The Doctoral Consortium (DC) of Pre-CHI Forum in Greater Bay provides an opportunity for doctoral students in the Greater Bay Area to discuss their research in a forum under the guidance of a panel of experienced HCI researchers. The DC will be held on April 27, 2024 as part of the pre-CHI event. Participants will be asked to give a presentation during the DC. They will receive feedback from mentors and coaches. 
 
 The DC’s primary purpose is to create a forum for promising PhD students to present and develop their research (i.e., dissertation projects). Community building is another significant goal. To achieve these goals, we will provide a forum for HCI PhD students in the Greater Bay Area to present their research, receive feedback, and informally engage with each other, as well as senior HCI scholars. Students will be able to participate either in-person or online, as the event will be in a hybrid form.
 
