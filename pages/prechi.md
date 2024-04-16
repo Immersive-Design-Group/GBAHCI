@@ -41,4 +41,4 @@ As this event marks its inaugural trial, the forum is internally organized, with
 
 ## Student Volunteer Co-Chairs
 - <a href="mailto:xi.zheng@cityu.edu.hk">Xi Zheng</a> (CityU)
-- <a href="mailto:ellen.li@cityu.edu.hk">huoyang (Ellen) Li</a> (CityU)
+- <a href="mailto:ellen.li@cityu.edu.hk">Huoyang (Ellen) Li</a> (CityU)
