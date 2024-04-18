@@ -60,7 +60,7 @@ With its strategic global position, exceptional infrastructure, and commitment t
 Below are the schedules and corresponding committees for the upcoming events hosted by us:<br/>
 以下是近期由我们组织的活动日程和其他相关信息：
 
-| Date | Event | Organizational committees | Geral Chair | Location | Participation  |
+| Date | Event | Organizational committees | General Chair | Location | Participation  |
 | --- | --- | --- | --- | --- | --- |
 | 2024.4.27 | GBA HCI Forum Pre-CHI 2024 | City University of Hong Kong; Hong Kong University of Science and Technology, Guangzhou; Southern University of Science and Technology | [Shengdong Zhao](https://shengdongzhao.com/), [Mingming Fan](https://www.mingmingfan.com/lab/) | | Internal events |
 
