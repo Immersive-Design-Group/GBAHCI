@@ -125,6 +125,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://www.sustech.edu.cn/en/faculties/baiziqian.html" target="_blank"  class="image">
+        <img src="\faculty\Ziqian.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Ziqian Bai</strong><br/>
+            <span class="details">Assistant Professor<br/>SUSTech School of System Design and Intelligent Manufacturing</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://taizhouchen.github.io/" target="_blank"  class="image">
         <img src="\faculty\taizhou.webp" alt="faculty" />
         </a>
@@ -296,12 +305,21 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://www.sustech.edu.cn/en/faculties/zhangjiaxin.html" target="_blank"  class="image">
+        <img src="\faculty\Jiaxin.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Jiaxin Zhang</strong><br/>
+            <span class="details">Assistant Professor<br/>Sustech School of System Design and Intelligent Manufacturing</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://www.polyu.edu.hk/sd/people/academic-staff/zhou-zhibin/" target="_blank"  class="image">
         <img src="\faculty\ZHOUZhibin.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Zhibin Zhou</strong><br/>
-            <span class="details">Research Assistant Professor <br/>PolyU School of Design</span>
+            <span class="details">Research Assistant Professor<br/>PolyU School of Design</span>
         </p>
     </div>
 </div>
