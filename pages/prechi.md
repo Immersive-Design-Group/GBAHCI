@@ -20,6 +20,11 @@ As this event marks its inaugural trial, the forum is internally organized, with
 
 该研讨会由大湾区内的研究机构内部组织，参与者最初来自这些机构。然而，我们期望我们的社群通过纳入其他机构和领域的研究者和从业者而不断壮大。如果您有兴趣参与此活动或成为该社群的一部分，请联系我们。
 
+# Agenda
+<iframe src="\Pre-CHI\Agenda_Pre-CHI2024(VersionApr20).pdf" width="100%" height="500">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="\Pre-CHI\Agenda_Pre-CHI2024(VersionApr20).pdf">Download PDF</a>.
+</iframe>
+
 # Committees
 ## General Chairs
 - [Shengdong Zhao](https://shengdongzhao.com/) (CityU)
