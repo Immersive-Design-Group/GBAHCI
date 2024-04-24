@@ -21,6 +21,10 @@ As this event marks its inaugural trial, the forum is internally organized, with
 该研讨会由大湾区内的研究机构内部组织，参与者最初来自这些机构。然而，我们期望我们的社群通过纳入其他机构和领域的研究者和从业者而不断壮大。如果您有兴趣参与此活动或成为该社群的一部分，请联系我们。
 
 # Agenda
+<span style="color: red;"><u>The updated Zoom links:</u></span><br/>
+- **For the Opening, Session A-1, Session B-1, Session C-1 and Closing Keynote:** [https://nus-sg.zoom.us/j/4185983277?omn=86804500115](https://nus-sg.zoom.us/j/4185983277?omn=86804500115)
+- **For Session A-2, Session B-2 and Session C-2:** [https://nus-sg.zoom.us/j/82900044460?pwd=UW5ZeC9LektUTFRIcU9MY0t0RkNrZz09#success](https://nus-sg.zoom.us/j/82900044460?pwd=UW5ZeC9LektUTFRIcU9MY0t0RkNrZz09#success)
+- **For Doctoral Consortium:** [https://nus-sg.zoom.us/j/84951171705?pwd=VTFxRDN3QnBxU3gveW12bVczVlZYUT09](https://nus-sg.zoom.us/j/84951171705?pwd=VTFxRDN3QnBxU3gveW12bVczVlZYUT09)
 <iframe src="\Pre-CHI\Agenda_Pre-CHI2024(VersionApr20).pdf" width="100%" height="500">
     This browser does not support PDFs. Please download the PDF to view it: <a href="\Pre-CHI\Agenda_Pre-CHI2024(VersionApr20).pdf">Download PDF</a>.
 </iframe>
