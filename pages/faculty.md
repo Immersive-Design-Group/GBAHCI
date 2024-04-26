@@ -310,7 +310,7 @@ position: 2
         </a>
         <p class="image-caption">
             <strong>Jiaxin Zhang</strong><br/>
-            <span class="details">Assistant Professor<br/>Sustech School of System Design and Intelligent Manufacturing</span>
+            <span class="details">Assistant Professor<br/>SUSTech School of System Design and Intelligent Manufacturing<br/></span>
         </p>
     </div>
     <div class="figure-grid-item">
