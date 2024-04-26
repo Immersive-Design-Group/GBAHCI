@@ -1,44 +1,41 @@
 <header class="site-header">
 
-    <!-- Logo and title -->
-	<div class="branding">
-        {% if site.avatar %}
-		<a href="{{ '/' | relative_url }}">
-			<img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" loading="lazy"/>
-		</a>
-        {% endif %}
-        <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
-        {{ site.title }}
-		</a>
-	</div>
+  <div class="branding">
+    {% if site.avatar %}
+      <a href="{{ '/' | relative_url }}">
+        <img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" loading="lazy"/>
+      </a>
+    {% endif %}
+    <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
+      {{ site.title }}
+    </a>
+  </div>
 
-    <!-- Toggle menu -->
-    <nav class="clear">
+  <nav class="clear">
     <a aria-label="pull" id="pull" class="toggle" href="#">
-    <i class="fas fa-bars fa-lg"></i>
+      <i class="fas fa-bars fa-lg"></i>
     </a>
 
-    <!-- Menu -->
     <ul class="hide">
-        {% assign name_page = "" %}
-        {% assign emptyArray = '' | split: '' %}
-        {% assign menus = site.data.menu | default: emptyArray %}
-        {% assign pages = site.pages | concat: menus | sort: 'position' %}
-        {% for page in pages %}
-        {% unless page.title == null or page.hide or name_page contains page.title %}
-            <li class="separator"> | </li>
-            <li>
-                <a class="clear" aria-label="{{ page.title }}" title="{{ page.title }}" href="{{ page.url | relative_url }}">
-                    {% if page.icon %} <i class="navbar-icon fas {{ page.icon }}" aria-hidden="true"></i>{% endif %}
-                    <span class="navbar-label {% if page.icon %}navbar-label-with-icon{% endif%}">{{ page.title }}</span>
-                </a>
-            </li>
+      {% assign name_page = "" %}
+      {% assign emptyArray = '' | split: '' %}
+      {% assign menus = site.data.menu | default: emptyArray %}
+      {% assign pages = site.pages | concat: menus | sort: 'position' %}
+      {% for page in pages %}
+        {% unless page.title == null or page.hide or page.layout == 'page_customize_hide' or name_page contains page.title %}
+          <li class="separator"> | </li>
+          <li>
+            <a class="clear" aria-label="{{ page.title }}" title="{{ page.title }}" href="{{ page.url | relative_url }}">
+              {% if page.icon %} <i class="navbar-icon fas {{ page.icon }}" aria-hidden="true"></i>{% endif %}
+              <span class="navbar-label {% if page.icon %}navbar-label-with-icon{% endif%}">{{ page.title }}</span>
+            </a>
+          </li>
         {% endunless %}
         {% assign name_page = page.title | append: name_page %}
-        {% endfor %}
+      {% endfor %}
 
 
     </ul>
 
-	</nav>
+  </nav>
 </header>

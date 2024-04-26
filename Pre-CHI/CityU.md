@@ -1,5 +1,5 @@
 ---
-layout: page_customize
+layout: page_customize_hide
 ctitle: CityU Guide
 permalink: /prechi/cityu/
 ---
