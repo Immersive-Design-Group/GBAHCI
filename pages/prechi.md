@@ -25,9 +25,12 @@ As this event marks its inaugural trial, the forum is internally organized, with
 - **For the Opening, Session A-1, Session B-1, Session C-1 and Closing Keynote:** [https://nus-sg.zoom.us/j/4185983277?omn=86804500115](https://nus-sg.zoom.us/j/4185983277?omn=86804500115)
 - **For Session A-2, Session B-2 and Session C-2:** [https://nus-sg.zoom.us/j/82900044460?pwd=UW5ZeC9LektUTFRIcU9MY0t0RkNrZz09#success](https://nus-sg.zoom.us/j/82900044460?pwd=UW5ZeC9LektUTFRIcU9MY0t0RkNrZz09#success)
 - **For Doctoral Consortium:** [https://nus-sg.zoom.us/j/84951171705?pwd=VTFxRDN3QnBxU3gveW12bVczVlZYUT09](https://nus-sg.zoom.us/j/84951171705?pwd=VTFxRDN3QnBxU3gveW12bVczVlZYUT09)
-<iframe src="\Pre-CHI\Agenda_Pre-CHI2024(VersionApr20).pdf" width="100%" height="500">
+<iframe src="\Pre-CHI\2024 pre-chi agenda (HKFinal).pdf" width="100%" height="500">
     This browser does not support PDFs. Please download the PDF to view it: <a href="\Pre-CHI\Agenda_Pre-CHI2024(VersionApr20).pdf">Download PDF</a>.
 </iframe>
+
+# Campus Guide
+[CityU](/prechi/cityu/)
 
 # Committees
 ## General Chairs
@@ -50,4 +53,4 @@ As this event marks its inaugural trial, the forum is internally organized, with
 
 ## Student Volunteer Co-Chairs
 - <a href="mailto:xi.zheng@cityu.edu.hk">Xi Zheng</a> (CityU)
-- <a href="mailto:ellen.li@cityu.edu.hk">Huoyang (Ellen) Li</a> (CityU)
+- <a href="mailto:ellen.li@cityu.edu.hk">Zhuoyang (Ellen) Li</a> (CityU)
