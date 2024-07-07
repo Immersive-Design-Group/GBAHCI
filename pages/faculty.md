@@ -179,6 +179,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://design.bnu.edu.cn/faculty/teachers/lecturer/8242cf64fd9f430cab263ef4ffe6672f.htm" target="_blank"  class="image">
+        <img src="\faculty\wei.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Wei Li</strong><br/>
+            <span class="details">Assistant Professor<br/>BNU School of Future Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://www.hci-xgroup.com/" target="_blank"  class="image">
         <img src="\faculty\xueliang.webp" alt="faculty" />
         </a>
