@@ -161,6 +161,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://ultra-jin.com/" target="_blank"  class="image">
+        <img src="\faculty\Yuhua.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Yuhua Jin</strong><br/>
+            <span class="details">Assistant Professor<br/>CUHK (SZ)</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://recfro.github.io/" target="_blank"  class="image">
         <img src="\faculty\RayLC.webp" alt="faculty" />
         </a>
