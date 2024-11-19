@@ -5,8 +5,8 @@
 # THEME-SPECIFIC CONFIGURATION
 title: Greater Bay HCI                                  # site's title
 # description: "Greater Bay HCI"      # used by search engines
-avatar:                          # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+avatar:  assets/img/logo.png                         # Empty for no avatar in navbar
+favicon: assets/img/logo2.jpg                              # Icon displayed in the tab
 
 # Header and footer text
 header_text: Greater Bay HCI | 粤港澳大湾区人机交互论坛  # Change Blog header text
@@ -17,7 +17,7 @@ footer_text: >
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
-post_navigation: true
+post_navigation: false
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Features
@@ -46,6 +46,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:name
+  blogs:
+    output: true
+    permalink: /blog/:name/
+
 
 # BUILD SETTINGS
 sass:

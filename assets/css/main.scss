@@ -2,3 +2,114 @@
 ---
 
 @import "type-on-strap";
+.site-logo {
+  height: auto;             /* Keep the aspect ratio */
+  max-height: 60px;         /* Limit the maximum height to prevent it from growing too large */
+  width: auto;              /* Let the width adjust naturally based on height */
+  object-fit: contain;      /* Ensure the logo fits inside without distortion */
+  display: inline-block;    /* Allow the logo to sit inline without breaking the layout */
+  transition: all 0.3s ease-in-out; /* Optional: Smooth transition for changes */
+}
+
+/* Optional: Add flexbox to ensure correct alignment */
+.site-header .branding {
+  display: flex;            /* Align items horizontally */
+  align-items: center;      /* Center the logo vertically */
+  justify-content: flex-start; /* Align items to the left */
+  padding: 10px 0;          /* Optional padding */
+}
+
+/* Optional: Styling adjustments for the site-header */
+.site-header {
+  display: flex;
+  justify-content: space-between;  /* Space out logo and nav bar */
+  align-items: center;    /* Center items vertically */
+  padding: 10px 20px;     /* Padding to create spacing around the header */
+}
+
+.site-header .branding a {
+  display: flex;          /* Make the link itself flexible */
+  align-items: center;    /* Center content vertically */
+  text-decoration: none;  /* Remove text underline */
+}
+// .site-logo {
+//   height: auto;         /* Allow the height to scale naturally */
+//   max-width: 100%;      /* Prevent the logo from exceeding the container */
+//   width: 150px;         /* Set a specific width for the logo */
+//   object-fit: contain;  /* Ensure the image does not stretch or distort */
+// }
+
+// .site-header .branding {
+//   margin-left: 20px;    /* Add some space between logo and edge of the screen */
+//   padding: 5px 0;       /* Optional: add padding to adjust vertical spacing */
+// }
+
+/* Container for all the post cards */
+.post-cards {
+  display: block; /* Display cards in block layout */
+  margin-top: 40px;
+}
+
+/* Each individual card */
+.post-card {
+  display: flex; /* Use flexbox to align the content and image */
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 40px; /* Space between cards */
+  width: 100%; /* Ensure it takes up full width */
+  align-items: center; /* Align items vertically */
+}
+
+/* Content Section (Left) */
+.post-card-content {
+  padding: 30px;
+  flex-grow: 1; /* Make content take up remaining space */
+}
+
+/* Post title */
+.post-card-title {
+  font-size: 2rem; /* Larger font for title */
+  font-weight: bold;
+  margin: 0;
+}
+
+.post-card-title a {
+  text-decoration: none;
+  color: #333;
+}
+
+.post-card-title a:hover {
+  color: #007bff; /* Hover color for title */
+}
+
+/* Post excerpt */
+.post-card-excerpt {
+  font-size: 1.2rem;
+  color: #555;
+  margin-top: 10px;
+}
+
+/* Meta information (date) */
+.post-card-meta {
+  font-size: 1rem;
+  color: #888;
+  margin-top: 10px;
+}
+
+/* The background image of the card (right side) */
+.post-card-image {
+  width: 200px; /* Fixed width for the image */
+  height: 200px; /* Fixed height for the image (square) */
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  margin-left: 20px; /* Space between content and image */
+}
+
+/* Hover effect */
+.post-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
