@@ -89,6 +89,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a class="image">
+        <img src="\faculty\Wei Liu.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Wei Liu</strong><br/>
+            <span class="details">Associate Professor<br/>SUSTech School of Design</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://home.cse.ust.hk/~mxj/" target="_blank"  class="image">
         <img src="\faculty\profileIM-XM7.webp" alt="faculty" />
         </a>
