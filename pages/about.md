@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 position: 1
 # feature-img: "assets/img/pexels/travel.jpeg"
 # tags: [Page]
@@ -68,3 +68,4 @@ Below are the schedules and corresponding committees for the upcoming events hos
 
 **Email us** <br/>
 Seungwoo Je, <a href="mailto:seungwoo@sustech.edu.cn">seungwoo (at) sustech.edu.cn</a>
+---

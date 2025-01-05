@@ -62,4 +62,4 @@ remote_theme: sylhare/Type-on-Strap                     # If using as a remote_t
 
 navigation:
   - title: About
-    url: /about/
+    url: /
