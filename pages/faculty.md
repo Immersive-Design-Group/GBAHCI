@@ -53,7 +53,7 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
-        <a class="image">
+        <a href="https://designschool.sustech.edu.cn/about/team/faculty/697.html" target="_blank" class="image">
         <img src="\faculty\Prof.sun.webp" alt="faculty" />
         </a>
         <p class="image-caption">
@@ -89,7 +89,7 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
-        <a class="image">
+        <a href="https://designschool.sustech.edu.cn/about/team/faculty/729.html" target="_blank" class="image">
         <img src="\faculty\Wei Liu.webp" alt="faculty" />
         </a>
         <p class="image-caption">
