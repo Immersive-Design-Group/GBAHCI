@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tentative Program | Greater Bay HCI</title>
-    <link>http://localhost:1313/prechi2025/program/</link>
-      <atom:link href="http://localhost:1313/prechi2025/program/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gbahci.com/prechi2025/program/</link>
+      <atom:link href="https://gbahci.com/prechi2025/program/index.xml" rel="self" type="application/rss+xml" />
     <description>Tentative Program</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/prechi2025/media/logo.svg</url>
+      <url>https://gbahci.com/prechi2025/media/logo.svg</url>
       <title>Tentative Program</title>
-      <link>http://localhost:1313/prechi2025/program/</link>
+      <link>https://gbahci.com/prechi2025/program/</link>
     </image>
     
     <item>
       <title>Welcome Reception</title>
-      <link>http://localhost:1313/prechi2025/program/welcome/</link>
+      <link>https://gbahci.com/prechi2025/program/welcome/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prechi2025/program/welcome/</guid>
+      <guid>https://gbahci.com/prechi2025/program/welcome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opening Keynote</title>
-      <link>http://localhost:1313/prechi2025/program/opening/</link>
+      <link>https://gbahci.com/prechi2025/program/opening/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prechi2025/program/opening/</guid>
+      <guid>https://gbahci.com/prechi2025/program/opening/</guid>
       <description></description>
     </item>
     
