@@ -260,6 +260,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://narechania.com" target="_blank"  class="image">
+        <img src="\faculty\arpit.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Arpit Ajay NARECHANIA</strong><br/>
+            <span class="details">Assistant Professor<br/>HKUST Department of Computer Science and Engineering</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://zhenhuipeng.com/" target="_blank"  class="image">
         <img src="\faculty\me-d.webp" alt="faculty" />
         </a>
