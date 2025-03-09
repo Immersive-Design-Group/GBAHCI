@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 9, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: March 10, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head>
@@ -51,7 +51,7 @@
   
   
     
-    <link rel="stylesheet" href="/prechi2025/css/themes/sky.min.css" />
+    <link rel="stylesheet" href="/prechi2025/css/themes/sky.min.0d566ef8fef9fdcdce8a4a0739930d93561c1e5287fa5ee4436352ed770c5812.css" />
   
 
   
@@ -983,8 +983,42 @@
   
   <section id="comments">
     
-<script defer src="https://csz196.cse.ust.hk/prechi/comentario/comentario.js"></script>
-<comentario-comments id="comentario"></comentario-comments>
+<script defer src="https://csz196.cse.ust.hk/prechi/comentario/en/comentario.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const themeToggleButton = document.querySelector('.theme-toggle');
+        const comentarioElement = document.querySelector('comentario-comments');
+
+        
+        function applyTheme(theme) {
+            document.body.classList.toggle('dark-mode', theme === 'dark');
+            if (comentarioElement) {
+                comentarioElement.setAttribute('theme', theme); 
+            }
+        }
+
+        
+        if ("wc-color-theme" in localStorage) {
+          localStorage.getItem("wc-color-theme") === "dark" ? applyTheme("dark") : applyTheme("light");
+        } else {
+          window.hbb.defaultTheme === "dark" ? applyTheme("dark") : applyTheme("light");
+          if (window.hbb.defaultTheme === "system") {
+            window.matchMedia("(prefers-color-scheme: dark)").matches ? applyTheme("dark") : applyTheme("light");
+          }
+        }
+
+        
+        themeToggleButton.addEventListener('click', function () {
+            const currentTheme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+
+            applyTheme(newTheme);
+            localStorage.setItem('theme', newTheme);
+        });
+    });
+</script>
+<comentario-comments id="comentario" 
+    css-override="https://gbahci.com/prechi2025/css/themes/comentario.min.2de0b48119d4e6c99ec78985a0068217511ddba7964f4bdc8f1e4d60999f0ce7.css" ></comentario-comments>
   </section>
   
 
@@ -1073,8 +1107,8 @@
   
     
       
-      <script type="text/javascript" src="js/carousel.js"></script>
-<link rel="stylesheet" href="css/carousel.css">
+      <script type="text/javascript"  src= https://gbahci.com/prechi2025/js/carousel.min.e95f53842a06cd8ae573076b6af66a4668846b17ad571217e68272799d75d363.js ></script>
+<link rel="stylesheet"  href= https://gbahci.com/prechi2025/css/themes/carousel.min.e6e7d47ef37586599223be5033df61b146871de12c4365b0f752508b20bb95a2.css  />
 <noscript>Please enable JavaScript to load the comments.</noscript>
 
       
