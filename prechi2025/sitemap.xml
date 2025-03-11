@@ -2,26 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gbahci.com/prechi2025/program/opening/</loc>
+    <lastmod>2025-04-12T09:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gbahci.com/prechi2025/program/session_a_1/</loc>
+    <lastmod>2025-04-12T10:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gbahci.com/prechi2025/program/session_a_2/</loc>
+    <lastmod>2025-04-12T10:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gbahci.com/prechi2025/program/welcome/</loc>
+    <lastmod>2025-04-12T09:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gbahci.com/prechi2025/tag/presentation/</loc>
+    <lastmod>2025-04-12T10:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gbahci.com/prechi2025/program/</loc>
+    <lastmod>2025-04-12T10:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gbahci.com/prechi2025/tags/</loc>
+    <lastmod>2025-04-12T10:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gbahci.com/prechi2025/tag/keynote/</loc>
+    <lastmod>2025-04-12T09:20:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://gbahci.com/prechi2025/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gbahci.com/prechi2025/program/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gbahci.com/prechi2025/program/welcome/</loc>
-    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gbahci.com/prechi2025/program/opening/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://gbahci.com/prechi2025/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gbahci.com/prechi2025/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
