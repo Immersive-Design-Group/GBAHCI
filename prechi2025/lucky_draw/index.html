@@ -44,7 +44,7 @@
   <meta name="description" content="Student" />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://gbahci.com/prechi2025/404.html" />
+  <link rel="alternate" hreflang="en-us" href="https://gbahci.com/prechi2025/lucky_draw/" />
 
   
   
@@ -156,12 +156,14 @@
 
   
   
+    <link rel="alternate" href="/prechi2025/lucky_draw/index.xml" type="application/rss+xml" title="Greater Bay HCI" />
+  
 
   
   <link rel="icon" type="image/png" href="/prechi2025/media/icon_hu_d546497c0a7ae26f.png" />
   <link rel="apple-touch-icon" type="image/png" href="/prechi2025/media/icon_hu_1c4e90afa1c71094.png" />
 
-  <link rel="canonical" href="https://gbahci.com/prechi2025/404.html" />
+  <link rel="canonical" href="https://gbahci.com/prechi2025/lucky_draw/" />
 
   
   
@@ -184,8 +186,8 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Greater Bay HCI" />
-  <meta property="og:url" content="https://gbahci.com/prechi2025/404.html" />
-  <meta property="og:title" content="404 Page not found | Greater Bay HCI" />
+  <meta property="og:url" content="https://gbahci.com/prechi2025/lucky_draw/" />
+  <meta property="og:title" content="Lucky Draw | Greater Bay HCI" />
   <meta property="og:description" content="Student" /><meta property="og:image" content="https://gbahci.com/prechi2025/media/icon_hu_98056d0460235853.png" />
     <meta property="twitter:image" content="https://gbahci.com/prechi2025/media/icon_hu_98056d0460235853.png" /><meta property="og:locale" content="en-us" />
   
@@ -197,7 +199,7 @@
 
 
 
-  <title>404 Page not found | Greater Bay HCI</title>
+  <title>Lucky Draw | Greater Bay HCI</title>
 
   
   
@@ -741,45 +743,176 @@
       
     </div>
     <div class="page-body  my-10">
-      <div class="flex flex-col justify-center">
-  <article class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert">
-    <h1 class="lg:text-6xl">Page not found</h1>
+      
 
-    
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">Lucky Draw</h1>
+    <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
+<style>
+    /* Winner List Container */
+    #winnerList {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
 
-    <p>Perhaps you were looking for one of these?</p>
+    /* Winner Item */
+    .winner-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 90%;
+        max-width: 400px;
+        padding: 12px 16px;
+        border-radius: 12px;
+        font-size: 18px;
+        font-weight: 500;
+        transition: background-color 0.3s ease, border 0.3s ease, color 0.3s ease;
+        background-color: rgb(var(--color-primary-50));
+        border: 2px solid rgb(var(--color-primary-200));
+        color: rgb(var(--color-primary-800));
+        box-shadow: 0 4px 8px rgba(var(--color-primary-700), 0.08);
+    }
 
-    
-    
-    
-    <h2>Latest</h2>
-    <ul>
-      
-      <li><a href="/prechi2025/program/">Sessions</a></li>
-      
-      <li><a href="/prechi2025/program/session_b3/">Session B3 - Interaction in VR/AR</a></li>
-      
-      <li><a href="/prechi2025/program/session_a3/">Session A3 - Interactive Systems and Data Visualization</a></li>
-      
-      <li><a href="/prechi2025/program/panel2/">Panel 2 - Opportunities and Challenges in Human-Computer Interaction Research in the Greater Bay Area</a></li>
-      
-      <li><a href="/prechi2025/program/session_b2/">Session B2 - New Media and Research Inspirations</a></li>
-      
-      <li><a href="/prechi2025/program/session_a2/">Session A2 - Interactive Systems and Data Visualization</a></li>
-      
-      <li><a href="/prechi2025/program/session_a1/">Session A1 - GenAI-Enhanced Communication</a></li>
-      
-      <li><a href="/prechi2025/program/panel1/">Panel 1 - From LinkedIn to Workplace: Career Opportunities for HCI Graduates</a></li>
-      
-      <li><a href="/prechi2025/program/session_b1/">Session B1 - Healthcare and Human Wellbeing</a></li>
-      
-      <li><a href="/prechi2025/program/welcome/">Keynotes</a></li>
-      
-    </ul>
-    
+    /* Dark mode styles for winner-item */
+    .dark .winner-item {
+        background-color: rgb(var(--color-primary-950));
+        border: 2px solid rgb(var(--color-primary-800));
+        color: rgb(var(--color-primary-100));
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
 
+    /* Remove Button */
+    button.remove-btn {
+        background-color: rgb(var(--color-primary-500));
+        border: none;
+        color: white;
+        padding: 6px 12px;
+        border-radius: 8px;
+        font-size: 14px;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+    }
+
+    button.remove-btn:hover {
+        background-color: rgb(var(--color-primary-700));
+    }
+
+    /* Dark mode button style */
+    .dark button.remove-btn {
+        background-color: rgb(var(--color-primary-600));
+    }
+
+    .dark button.remove-btn:hover {
+        background-color: rgb(var(--color-primary-400));
+    }
+</style>
+<input type="file" id="upload" accept=".xlsx" />
+<br><br>
+<button onclick="drawWinner()">Draw Winner</button>
+<div id="winnerList"></div>
+<script>
+    let names = [];
+    let winners = [];
+    let excludedNames = [];
+
+    document.getElementById('upload').addEventListener('change', (e) => {
+        const file = e.target.files[0];
+        if (!file) return;
+
+        const reader = new FileReader();
+        reader.onload = (evt) => {
+            const data = evt.target.result;
+            const workbook = XLSX.read(data, { type: 'binary' });
+            const firstSheet = workbook.Sheets[workbook.SheetNames[0]];
+            const jsonData = XLSX.utils.sheet_to_json(firstSheet);
+
+            console.log("Parsed Data:", jsonData);
+
+            names = jsonData.map(row => row.Name).filter(name => !!name);
+            winners = []; // Reset winners on new upload
+            updateWinnerList();
+
+            if (names.length === 0) {
+                alert("No 'Name' column found or it's empty.");
+            }
+        };
+        reader.readAsBinaryString(file);
+    });
+
+    function drawWinner() {
+        if (names.length === 0) {
+            alert("Please upload a valid Excel file first.");
+            return;
+        }
+
+        if (winners.length >= 3) {
+            alert("You've already drawn 3 winners.");
+            return;
+        }
+
+        const remainingNames = names.filter(
+            name => !winners.includes(name) && !excludedNames.includes(name)
+        );
+
+        if (remainingNames.length === 0) {
+            alert("No more unique names to draw.");
+            return;
+        }
+
+        const randomIndex = Math.floor(Math.random() * remainingNames.length);
+        const winnerName = remainingNames[randomIndex];
+        winners.push(winnerName);
+        updateWinnerList();
+    }
+
+    function updateWinnerList() {
+        const container = document.getElementById('winnerList');
+        container.innerHTML = '';
+
+        winners.forEach((name, index) => {
+            const div = document.createElement('div');
+            div.className = 'winner-item';
+            div.innerHTML = `
+          ${name}
+          <button class="remove-btn" onclick="removeWinner(${index})">Remove</button>
+        `;
+            container.appendChild(div);
+        });
+    }
+
+    function removeWinner(index) {
+        const removed = winners.splice(index, 1)[0];
+        excludedNames.push(removed); // 🔥 Permanently exclude
+        updateWinnerList();
+    }
+</script>
   </article>
 </div>
+
+
+
+
+<div class="flex flex-col items-center">
+
+  <div class="container max-w-[65ch] mx-auto bg-white dark:bg-zinc-900 rounded-xl border-gray-100 dark:border-gray-700 border shadow-md overflow-hidden my-5">
+
+
+  
+  
+
+  </div>
+
+
+  
+
+
+</div>
+
+
     </div>
     <div class="page-footer">
       <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">

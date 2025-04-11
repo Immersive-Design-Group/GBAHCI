@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucky Draw | Greater Bay HCI</title>
+    <link>https://gbahci.com/prechi2025/lucky_draw/</link>
+      <atom:link href="https://gbahci.com/prechi2025/lucky_draw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucky Draw</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://gbahci.com/prechi2025/media/icon_hu_98056d0460235853.png</url>
+      <title>Lucky Draw</title>
+      <link>https://gbahci.com/prechi2025/lucky_draw/</link>
+    </image>
+    
+  </channel>
+</rss>
