@@ -13,19 +13,9 @@
     </image>
     
     <item>
-      <title>Opening Keynote - HCI for the Symbiosis with Agentic Machines</title>
-      <link>https://gbahci.com/prechi2025/program/opening/</link>
-      <pubDate>Sat, 12 Apr 2025 09:20:00 +0800</pubDate>
-      <guid>https://gbahci.com/prechi2025/program/opening/</guid>
-      <description>&lt;h2 id=&#34;hci-for-the-symbiosis-with-agentic-machines&#34;&gt;HCI for the Symbiosis with Agentic Machines&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Prof. Xiaohua Sun, &lt;em&gt;Southern University of Science and Technology&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Session A1 - GenAI-Enhanced Communication</title>
       <link>https://gbahci.com/prechi2025/program/session_a1/</link>
-      <pubDate>Sat, 12 Apr 2025 10:00:00 +0800</pubDate>
+      <pubDate>Sat, 12 Apr 2025 10:10:00 +0800</pubDate>
       <guid>https://gbahci.com/prechi2025/program/session_a1/</guid>
       <description>&lt;hr /&gt;
 &lt;h2 id=&#34;genai-enhanced-communication&#34;&gt;GenAI-Enhanced Communication&lt;/h2&gt;
@@ -100,6 +90,7 @@
 &lt;li&gt;Wynn Lyu (Hong Kong Productivity Council)&lt;/li&gt;
 &lt;li&gt;Prof. Zhenhui Peng (Sat-Yat Sen University)&lt;/li&gt;
 &lt;li&gt;Prof. Yingying She (Xiamen University)&lt;/li&gt;
+&lt;li&gt;Prof. Wei Liu (SUSTech)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Session Host&lt;/strong&gt;: Yi Xu&lt;/p&gt;
 </description>
@@ -145,9 +136,6 @@
 &lt;h3 id=&#34;design-futures-in-hci-design-thinking-for-digital-transformation--guest-talk&#34;&gt;Design Futures in HCI: Design Thinking for Digital Transformation  [Guest Talk]&lt;/h3&gt;
 &lt;p&gt;​&lt;strong&gt;​Speaker​&lt;/strong&gt;​: Zhiyong Fu, &lt;em&gt;Tsinghua University&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;​&lt;strong&gt;​Abstract​&lt;/strong&gt;​: TBD&lt;/p&gt;
-&lt;h3 id=&#34;designing-highly-accessible-xr-interfaces-rep&#34;&gt;Designing Highly Accessible XR Interfaces [REP]&lt;/h3&gt;
-&lt;p&gt;​&lt;strong&gt;​Speaker​&lt;/strong&gt;​: Yang Tian, &lt;em&gt;Guangxi University&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;​&lt;strong&gt;​Abstract​&lt;/strong&gt;​: TBD&lt;/p&gt;
 &lt;h3 id=&#34;participatory-design-in-human-computer-interaction-cases-characteristics-and-lessons&#34;&gt;Participatory Design in Human-Computer Interaction: Cases, Characteristics, and Lessons&lt;/h3&gt;
 &lt;p&gt;​&lt;strong&gt;​Speaker​&lt;/strong&gt;​: Xiang (nathan) Qi, &lt;em&gt;The Hong Kong Polytechnic University&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;​&lt;strong&gt;​Abstract​&lt;/strong&gt;​: Participatory Design (PD) has become increasingly prevalent inHuman-Computer Interaction (HCI) research. However, there remains a lack of comprehensive understanding of how PD has beenused by HCI scholars. To bridge this gap, we sampled PD applicationcases (𝑁 = 185) from the SIGCHI conferences over the past decadeand examined these cases through the dimensions of applicationfeatures (e.g., contexts and functions of PD) and PD principles (e.g.,its political commitment and mutual learning principle). Our analysis reveals the various ways PD has been applied in HCI and howits core features have been or have not been manifested in thesecases. Based on these findings, we reflect on the conceptual understanding of PD within the HCI community and discuss potentialmisconceptions. Ultimately, we hope this work can serve as a usefulreference for HCI researchers and beyond who are interested inincorporating PD into their design and research practices.&lt;/p&gt;
@@ -160,6 +148,9 @@
 &lt;h3 id=&#34;exploring-the-evolvement-of-user-engagement-in-online-creative-community-under-the-surge-of-generative-ai-a-case-study-of-deviantart&#34;&gt;Exploring the Evolvement of User Engagement in Online Creative Community under the Surge of Generative AI: A Case Study of DeviantArt&lt;/h3&gt;
 &lt;p&gt;​&lt;strong&gt;​Speaker​&lt;/strong&gt;​: Kangyu Yuan, &lt;em&gt;The Hong Kong University of Science and Technology&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;​&lt;strong&gt;​Abstract​&lt;/strong&gt;​: The rise of AI-generated content (AIGC) is transforming online creative communities (OCCs) and posing challenges to their regulation. The interacting behaviors, such as sharing artworks with descriptions, commenting on creations, and creators&amp;rsquo; subsequent replying are the essential components of user engagement in these communities. Understanding the influence of AIGC on the evolving user engagement could be helpful for community regulation. In this work, we collect 235K posts and their associated 255K comments from DeviantArt, a large creative community allowing uploading AIGC. Through open coding, we identify five categories of practices in describing and commenting on artworks, respectively. A set of deep learning models are applied to classify the posts and comments. We then combine time series regression analysis, causal inference analysis, and logistic regression analysis, to examine the impact of the surge of AIGC on user engagement. Results suggest that AI-generated artworks show a decreasing emphasis on the content of creations but an increasing trend toward commercial and promotion purposes. AI-generated artworks emphasize less on IP issues than human-created ones, while the awareness of IP issues drops for human-created artworks with the growth of AIGC as well. Although comments with high sentiment valence, for peer bonding or for requesting usage positively predict the reply behavior for human-created artworks, community members are less likely to maintain these interactions as AIGC rises. Finally, we discuss insights and design implications for OCCs.&lt;/p&gt;
+&lt;h3 id=&#34;designing-highly-accessible-xr-interfaces-rep&#34;&gt;Designing Highly Accessible XR Interfaces [REP]&lt;/h3&gt;
+&lt;p&gt;​&lt;strong&gt;​Speaker​&lt;/strong&gt;​: Yang Tian, &lt;em&gt;Guangxi University&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;​&lt;strong&gt;​Abstract​&lt;/strong&gt;​: TBD&lt;/p&gt;
 </description>
     </item>
     
@@ -239,21 +230,17 @@
     </item>
     
     <item>
-      <title>Closing Keynote - XR Gaming: Exploring Future Gameplay Experiences</title>
-      <link>https://gbahci.com/prechi2025/program/closing/</link>
-      <pubDate>Sat, 12 Apr 2025 09:20:00 +0800</pubDate>
-      <guid>https://gbahci.com/prechi2025/program/closing/</guid>
-      <description>&lt;h2 id=&#34;xr-gaming-exploring-future-gameplay-experiences&#34;&gt;XR Gaming: Exploring Future Gameplay Experiences&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Prof. Haining Liang, &lt;em&gt;The Hong Kong University of Science and Technology (Guangzhou)&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Leave Your Mark on Pre-CHI 2025</title>
+      <title>Keynotes</title>
       <link>https://gbahci.com/prechi2025/program/welcome/</link>
       <pubDate>Sat, 12 Apr 2025 09:00:00 +0800</pubDate>
       <guid>https://gbahci.com/prechi2025/program/welcome/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;opening-keynote---hci-for-the-symbiosis-with-agentic-machines&#34;&gt;Opening Keynote - HCI for the Symbiosis with Agentic Machines&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 09:20 - 09:50&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Prof. Xiaohua Sun, &lt;em&gt;Southern University of Science and Technology&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;closing-keynote---xr-gaming-exploring-future-gameplay-experiences&#34;&gt;Closing Keynote - XR Gaming: Exploring Future Gameplay Experiences&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 17:15 - 17:45&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Prof. Haining Liang, &lt;em&gt;The Hong Kong University of Science and Technology (Guangzhou)&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
