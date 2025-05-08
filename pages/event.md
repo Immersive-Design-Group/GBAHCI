@@ -2,7 +2,7 @@
 layout: page
 title: Latest Event
 permalink: /event/
-position: 6
+position: 7
 ---
 
 <iframe src="https://calendar.google.com/calendar/embed?src=e5437755aa56250df01f979fd86e6617caedcc076d427bd5a1b004e30bdc48dd%40group.calendar.google.com&ctz=Asia%2FShanghai" 

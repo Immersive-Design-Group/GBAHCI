@@ -1,9 +1,10 @@
 ---
 layout: page_customize
-title: Doctoral Consortium
-ctitle: Doctoral Consortium (Pre-CHI)
-permalink: /doctoral/
-position: 6
+title: CHI Summer school
+ctitle: chi summer school 
+permalink: /summerschool/
+position: 4
+hide: true
 # feature-img: "assets/img/pexels/travel.jpeg"
 # tags: [Page]
 ---
