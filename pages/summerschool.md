@@ -232,7 +232,7 @@ hide: true
 
 
 # Registration
-如果您有兴趣参加本次活动，请扫描以下二维码进行注册
+如果您有兴趣参加本次活动，请扫描以下二维码进行注册。<br>
 If you are interested in participating in this event, please scan this QR code to register. 
 <div style="text-align: center;">
   <img src="/assets/img/logo2.jpg" alt="QR Code"  style="width: 500px;" />
