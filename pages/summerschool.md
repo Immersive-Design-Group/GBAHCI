@@ -125,15 +125,22 @@ hide: true
 
 <style>
 .figure-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 24px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 32px;
+  justify-items: center;
   margin-top: 20px;
 }
 
+@media (min-width: 1200px) {
+  .figure-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 .figure-grid-item {
-  width: 220px;
+  width: 100%;
+  max-width: 220px;
   text-align: center;
 }
 
@@ -151,6 +158,7 @@ hide: true
   color: #333;
 }
 </style>
+
 
 <div class="figure-grid">
 
