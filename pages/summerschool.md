@@ -10,30 +10,22 @@ hide: true
 ---
 
 # Time and Location
+- **日期： 6月30日至7月5日** 
 - **Date: June 30 - July 5, 2025** 
+
+- **地点：深圳** 
 - **Location: Shenzhen** 
-- **Language: English** 
+
+- **语言：英语** 
+ - **Language: English** 
+
+
+
 
 # Workshop Description
-本次研讨会是一个为期六天的活动，旨在从思辨设计和后人类设计的角度探讨社交机器人的未来。活
-动将于6月30日至7月5日期间举行，内容包括讲座、实践设计工作坊以及参观当地企业以及自然景观
-。参与者将学习思辨设计的相关理论和框架，并探索非人形社交机器人的设计前景。参与者将关注社
-交机器人在更广泛生态系统中的作用以及对人类社会的影响，并将这些思考转化为设计概念。参与者
-将学习和运用交互原型制作的相关技能技能，包括设计机器人角色、基于开源智能硬件的原型制作、
-设计叙事创作等。参与者在工作坊期间制作的设计原型将通过展览的形式向更加广泛的观众展示。
+本次研讨会是一个为期六天的活动，旨在从思辨设计和后人类设计的角度探讨社交机器人的未来。活动将于6月30日至7月5日期间举行，内容包括讲座、实践设计工作坊以及参观当地企业以及自然景观。参与者将学习思辨设计的相关理论和框架，并探索非人形社交机器人的设计前景。参与者将关注社交机器人在更广泛生态系统中的作用以及对人类社会的影响，并将这些思考转化为设计概念。参与者将学习和运用交互原型制作的相关技能技能，包括设计机器人角色、基于开源智能硬件的原型制作、设计叙事创作等。参与者在工作坊期间制作的设计原型将通过展览的形式向更加广泛的观众展示。
 
-“Speculative Design of Robotic Ecologies” is a six-day activity aiming to explore the future 
-design of social robots the perspectives of speculative design and more-than-human 
-design. Running from June 30 to July 5, the program combines lectures, hands-on design 
-workshops, and field trips to local companies and natural sites in Shenzhen. Through learn
-ing about key concepts and frameworks about speculative design, participants will reflect 
-and act on the future design of non-humanoid social robots. Participants will explore the 
-future roles and impacts of social robots in a broader context the ecological system and 
-translate their visions into design artifacts. Participants will learn and practice design skills 
-include designing robotic characters, prototyping with electronics, and narrative construc
-tion for design demonstration. The design prototypes created during the workshop will be 
-showcased in an exhibition, presenting participants' speculative visions to a broader 
-audience
+“Speculative Design of Robotic Ecologies” is a six-day activity aiming to explore the future design of social robots the perspectives of speculative design and more-than-human design. Running from June 30 to July 5, the program combines lectures, hands-on design workshops, and field trips to local companies and natural sites in Shenzhen. Through learning about key concepts and frameworks about speculative design, participants will reflect and act on the future design of non-humanoid social robots. Participants will explore the future roles and impacts of social robots in a broader context the ecological system and translate their visions into design artifacts. Participants will learn and practice design skills include designing robotic characters, prototyping with electronics, and narrative construction for design demonstration. The design prototypes created during the workshop will be showcased in an exhibition, presenting participants' speculative visions to a broader audience.
 
 # Workshop schedule
 <table>
