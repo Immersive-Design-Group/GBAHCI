@@ -1,16 +1,16 @@
 ---
 layout: page_customize
-title: CHI Summer school
-ctitle: chi summer school 
+title: Shenzhen Summer school 
+ctitle: Shenzhen summer school  
 permalink: /summerschool/
 position: 4
-hide: true
+# hide: true
 # feature-img: "assets/img/pexels/travel.jpeg"
 # tags: [Page]
 ---
 
 # IMPORTANT DATES
-- **April 20, 2024:** Deadline for submissions (AoE)
+- **April 22, 2024:** Deadline for submissions (AoE)
 - **April 27, 2024:** Hybrid Doctoral Consortium.
 
 
