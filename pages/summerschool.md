@@ -223,68 +223,6 @@ hide: true
 </div>
 
 
-<div class="figure-grid">
-  <div class="figure-grid-item">
-    <a href="https://shengdongzhao.com/" target="_blank" class="image">
-      <img src="/faculty/prof.zhao.webp" alt="Shengdong Zhao" />
-    </a>
-    <p class="image-caption">
-      <strong>Shengdong Zhao</strong><br/>
-      <span class="details">Professor, CityU<br/>HCI, more-than-human design</span>
-    </p>
-  </div>
-  
-  <div class="figure-grid-item">
-    <a href="https://www.mingmingfan.com/lab/" target="_blank" class="image">
-      <img src="/faculty/mingming-fan-low-res-800-800.webp" alt="Mingming Fan" />
-    </a>
-    <p class="image-caption">
-      <strong>Mingming Fan</strong><br/>
-      <span class="details">Assistant Professor, HKUST (GZ)<br/>Empathic computing, XR</span>
-    </p>
-  </div>
-
-  <div class="figure-grid-item">
-    <a href="https://mayuxin.me/" target="_blank" class="image">
-      <img src="/faculty/prof.ma.webp" alt="Yuxin Ma" />
-    </a>
-    <p class="image-caption">
-      <strong>Yuxin Ma</strong><br/>
-      <span class="details">Associate Professor, SUSTech<br/>VR/AR, Embodied Interaction</span>
-    </p>
-  </div>
-
-  <div class="figure-grid-item">
-    <a href="http://anpengcheng.cn" target="_blank" class="image">
-      <img src="/faculty/pengcheng.webp" alt="Pengcheng An" />
-    </a>
-    <p class="image-caption">
-      <strong>Pengcheng An</strong><br/>
-      <span class="details">Assistant Professor, SUSTech<br/>XR design, haptics, interaction</span>
-    </p>
-  </div>
-
-  <div class="figure-grid-item">
-    <a href="https://meilab-hk.github.io/" target="_blank" class="image">
-      <img src="/faculty/prof.zhu.webp" alt="Kening Zhu" />
-    </a>
-    <p class="image-caption">
-      <strong>Kening Zhu</strong><br/>
-      <span class="details">Associate Professor, CityU<br/>Smart material, wearable tech</span>
-    </p>
-  </div>
-
-  <div class="figure-grid-item">
-    <a href="https://crab.ye.wang/" target="_blank" class="image">
-      <img src="/faculty/Kanye.webp" alt="Kanye Ye Wang" />
-    </a>
-    <p class="image-caption">
-      <strong>Kanye Ye Wang</strong><br/>
-      <span class="details">Assistant Professor, UM<br/>AI + Interaction</span>
-    </p>
-  </div>
-</div>
-
 # Registration
 如果您有兴趣参加本次活动，请扫描以下二维码进行注册
 If you are interested in participating in this event, please scan this QR code to register. 
