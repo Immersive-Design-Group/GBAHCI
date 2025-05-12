@@ -318,10 +318,10 @@ Greater Bay HCI Summer School is a six-day event aiming to explore the future de
 </div>
 
 # Application procedure
-如果您有兴趣参加本次活动，请在<strong>6月5日18:00</strong>之前，通过扫描以下二维码进行注册报名。报名者需提交一份个人简历及个人陈述。考虑到本次活动名额有限，活动组织方将对报名者进行筛选，并在<strong>6月12日</strong>之前通过邮件告知筛选结果。获得参加名额的报名者需在一周之内完成注册和缴费，逾期视为自动放弃本次报名。<br>
-If you are interested in participating in this event, please complete the registration by scanning the QR code below before <strong>6:00 PM on June </strong>. Applicants are required to submit a <strong>personal résumé and a statement of purpose</strong>. Given the limited number of spots available, the organizers will conduct a selection process and notify the selected participants via email by <strong>June 12</strong>. Those who are admitted must complete the registration and payment within <strong>one week</strong> of receiving the notification; Any delay of response will be considered a voluntary withdrawal.
+如果您有兴趣参加本次活动，请在<strong>6月5日18:00</strong>之前，通过扫描以下二维码或<a href="https://www.wjx.cn/vm/hMAEy7N.aspx#" target="_blank">点击此处</a>进行注册报名。报名者需提交一份个人简历及个人陈述。考虑到本次活动名额有限，活动组织方将对报名者进行筛选，并在<strong>6月12日</strong>之前通过邮件告知筛选结果。获得参加名额的报名者需在一周之内完成注册和缴费，逾期视为自动放弃本次报名。<br>
+If you are interested in participating in this event, please complete the registration by scanning the QR code below or click <a href="https://www.wjx.cn/vm/hMAEy7N.aspx#" target="_blank">this link</a> before <strong>6:00 PM on June </strong>. Applicants are required to submit a <strong>personal résumé and a statement of purpose</strong>. Given the limited number of spots available, the organizers will conduct a selection process and notify the selected participants via email by <strong>June 12</strong>. Those who are admitted must complete the registration and payment within <strong>one week</strong> of receiving the notification; Any delay of response will be considered a voluntary withdrawal.
 <div style="text-align: center;">
-  <img src="/assets/img/summerschool_logo.jpg" alt="QR Code"  style="width: 300px;" />
+  <img src="/assets/img/summerschool_logo.jpg" alt="QR Code"  style="width: 400px;" />
 </div>
 
 **注意：**每位参与者需缴纳注册费人民币1000元，用于支持本次活动的交通、材料及场地等相关支出。来自深圳以外地区的参与者需自行安排并承担往返交通及住宿费用。南方科技大学设计学院将为部分本校学生提供注册费资助，有意申请资助者需另行提交申请材料，资助资格由活动组织方评审确定。
