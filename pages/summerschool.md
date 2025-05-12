@@ -326,7 +326,7 @@ If you are interested in participating in this event, please complete the regist
 
 **注意：**每位参与者需缴纳注册费人民币1000元，用于支持本次活动的交通、材料及场地等相关支出。来自深圳以外地区的参与者需自行安排并承担往返交通及住宿费用。南方科技大学设计学院将为部分本校学生提供注册费资助，有意申请资助者需另行提交申请材料，资助资格由活动组织方评审确定。
 
-**Note:** Each participant is required to pay a registration fee of RMB 1,000, which will be used to cover expenses related to transportation, materials, and venue for the event. Participants traveling from outside Shenzhen are responsible for arranging and covering their own travel and accommodation. School of Design, Southern University of Science and Technology (SUSTech) will provide registration fee subsidies for a limited number of its students. Interested students must submit a separate application for the subsidy, which will be evaluated by the event organizers.
+**Note:** Each participant is required to pay a registration fee of RMB 1,000, which will be used to cover expenses related to transportation, materials, and venue for the event. Participants traveling from outside Shenzhen are responsible for arranging and covering their own travel and accommodation. School of Design, Southern University of Science and Technology (SUSTech) will provide registration fee subsidies for a limited number of SUSTech-affiliated students. Interested students must submit a separate application for the subsidy, which will be evaluated by the event organizers.
 
 **Contact:** 
 如有任何问题，请通过以下方式与我们联系:（to be added）<br>
