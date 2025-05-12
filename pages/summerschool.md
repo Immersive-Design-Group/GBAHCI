@@ -40,7 +40,7 @@ Greater Bay HCI Summer School is a six-day event aiming to explore the future de
       <td>Monday June 30</td>
       <td>
         · Check-in<br>
-        · Keynote by professor Zhao Shengdong<br>
+        · Opening speech by Prof. ZHAO shengdong<br>
         · Program introduction<br>
         · Lecture: More-than-human design<br>
         · Team building
