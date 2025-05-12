@@ -329,6 +329,6 @@ If you are interested in participating in this event, please complete the regist
 **Note:** Each participant is required to pay a registration fee of RMB 1,000, which will be used to cover expenses related to transportation, materials, and venue for the event. Participants traveling from outside Shenzhen are responsible for arranging and covering their own travel and accommodation. School of Design, Southern University of Science and Technology (SUSTech) will provide registration fee subsidies for a limited number of SUSTech-affiliated students. Interested students must submit a separate application for the subsidy, which will be evaluated by the event organizers.
 
 **Contact:** 
-如有任何问题，请通过以下方式与我们联系:（to be added）<br>
-Should you have any question, please contact us through: (to be added)
+如有任何问题，请通过以下方式与我们联系:summersustechsd@gmail.com<br>
+Should you have any question, please contact us through: summersustechsd@gmail.com
 
