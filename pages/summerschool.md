@@ -38,8 +38,7 @@ Greater Bay HCI Summer School is a six-day event aiming to explore the future de
   <tbody>
     <tr>
       <td>Monday<br>
-          June 30
-      </td>
+          June 30</td>
       <td>
         · Check-in<br>
         · Opening speech by Prof. ZHAO shengdong<br>
@@ -52,8 +51,7 @@ Greater Bay HCI Summer School is a six-day event aiming to explore the future de
     </tr>
     <tr>
       <td>Tuesday<br>
-          July 1
-      </td>
+          July 1</td>
       <td>· Designing a character of robot: Embodied acting out of robots + dynamic qualities sheet</td>
       <td>
       · Tour of nature: Mangrove natural reserve in Futian District<br>
@@ -64,8 +62,7 @@ Greater Bay HCI Summer School is a six-day event aiming to explore the future de
     </tr>
     <tr>
       <td>Wednesday<br>
-          July 2
-      </td>
+          July 2</td>
       <td>· Lecture: Expressing technology</td>
       <td>
       · Creating and testing behaviours of the robots<br>
@@ -87,16 +84,14 @@ Greater Bay HCI Summer School is a six-day event aiming to explore the future de
     </tr>
     <tr>
       <td>Friday<br>
-          July 4
-      </td>
+          July 4</td>
       <td>Connecting the ecology / Integration of technologies</td>
       <td>Testing, making & rehearsing</td>
       <td>Finalization of design prototypes</td>
     </tr>
     <tr>
       <td>Saturday<br>
-          July 5
-      </td>
+          July 5</td>
       <td>Exhibition preparation</td>
       <td>
       · Exhibition<br>
