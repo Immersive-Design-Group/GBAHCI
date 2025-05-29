@@ -1,7 +1,7 @@
 ---
 layout: page_customize
-title: Greater Bay HCI Summer School:Speculative Design of Robots in A More than Human Ecology
-ctitle: Greater Bay HCI Summer School:Speculative Design of Robots in A More than Human Ecology
+title: "Greater Bay HCI Summer School: Speculative Design of Robots in A More than Human Ecology"
+ctitle: "Greater Bay HCI Summer School: Speculative Design of Robots in A More than Human Ecology"
 permalink: /summerschool/
 position: 4
 hide: true
