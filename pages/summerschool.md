@@ -26,12 +26,13 @@ hide: true
 Greater Bay HCI Summer School is a six-day event aiming to explore the future design of social robots from the perspectives of speculative design and more-than-human design. Running from June 30 to July 5, the program combines lectures, hands-on design workshops, and field trips to local companies and natural sites in Shenzhen. Through learning about key concepts and frameworks about speculative design, participants will reflect and act on the future design of non-humanoid social robots. Participants will explore the future roles and impacts of social robots in a broader context the ecological system and translate their visions into design artifacts. Participants will learn and practice design skills include designing robotic characters, prototyping with electronics, and narrative construction for design demonstration. The design prototypes created during the workshop will be showcased in an exhibition, presenting participants’ speculative visions to a broader audience.
 
 # Workshop schedule
+ (The specific arrangement of activities will be communicated to participants via internal channels.)
 <table>
   <thead>
     <tr>
       <th>Date</th>
-      <th>Morning</th>
-      <th>Afternoon</th>
+      <th>Morning 9:00 - 12:00</th>
+      <th>Afternoon 14:00 - 18:00</th>
       <th>Deliverables</th>
     </tr>
   </thead>
