@@ -79,6 +79,15 @@ position: 2
             <span class="details">Professor<br/>CityU School of Creative Media and Computer Science Department</span>
         </p>
     </div>
+        <div class="figure-grid-item">
+        <a href="https://www.mingmingfan.com/lab/" target="_blank"  class="image">
+        <img src="\faculty\mingming-fan-low-res-800-800.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Mingming Fan</strong><br/>
+            <span class="details">Assoicate Professor<br/>HKUST (GZ)</span>
+        </p>
+    </div>
     <div class="figure-grid-item">
         <a href="https://cybsec.jnu.edu.cn/2023/1120/c39593a781901/page.htm" target="_blank"  class="image">
         <img src="\faculty\Boyu.webp" alt="faculty" />
@@ -116,6 +125,15 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
+        <a href="https://zhenhuipeng.com/" target="_blank"  class="image">
+        <img src="\faculty\me-d.webp" alt="faculty" />
+        </a>
+        <p class="image-caption">
+            <strong>Zhenhui Peng</strong><br/>
+            <span class="details">Assoicate Professor<br/>SYSU School of Artificial Intelligence</span>
+        </p>
+    </div>
+    <div class="figure-grid-item">
         <a href="https://meilab-hk.github.io/" target="_blank"  class="image">
         <img src="\faculty\prof.zhu.webp" alt="faculty" />
         </a>
@@ -149,15 +167,6 @@ position: 2
         <p class="image-caption">
             <strong>Taizhou Chen</strong><br/>
             <span class="details">Assistant Professor<br/>STU</span>
-        </p>
-    </div>
-    <div class="figure-grid-item">
-        <a href="https://www.mingmingfan.com/lab/" target="_blank"  class="image">
-        <img src="\faculty\mingming-fan-low-res-800-800.webp" alt="faculty" />
-        </a>
-        <p class="image-caption">
-            <strong>Mingming Fan</strong><br/>
-            <span class="details">Assistant Professor<br/>HKUST (GZ)</span>
         </p>
     </div>
     <div class="figure-grid-item">
@@ -233,15 +242,6 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
-        <a href="https://www.cs.cityu.edu.hk/~zhiconlu/" target="_blank"  class="image">
-        <img src="\faculty\prof.lu.webp" alt="faculty" />
-        </a>
-        <p class="image-caption">
-            <strong>Zhicong Lu</strong><br/>
-            <span class="details">Assistant Professor<br/>CityU Computer Science Department</span>
-        </p>
-    </div>
-    <div class="figure-grid-item">
         <a href="http://ixdlanguage.org" target="_blank"  class="image">
         <img src="\faculty\Tao.webp" alt="faculty" />
         </a>
@@ -269,12 +269,12 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
-        <a href="https://zhenhuipeng.com/" target="_blank"  class="image">
-        <img src="\faculty\me-d.webp" alt="faculty" />
+        <a href="https://sme.cuhk.edu.cn/en/teacher/187" target="_blank"  class="image">
+        <img src="\faculty\ReaniManuele.webp" alt="faculty" />
         </a>
         <p class="image-caption">
-            <strong>Zhenhui Peng</strong><br/>
-            <span class="details">Assistant Professor<br/>SYSU School of Artificial Intelligence</span>
+            <strong>Manuele Reani</strong><br/>
+            <span class="details">Assistant Professor<br/>CUHK (SZ)</span>
         </p>
     </div>
     <div class="figure-grid-item">
@@ -358,4 +358,5 @@ position: 2
             <span class="details">Research Assistant Professor<br/>PolyU School of Design</span>
         </p>
     </div>
+
 </div>
