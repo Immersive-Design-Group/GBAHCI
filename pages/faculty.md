@@ -98,12 +98,12 @@ position: 2
         </p>
     </div>
     <div class="figure-grid-item">
-        <a href="https://designschool.sustech.edu.cn/about/team/faculty/729.html" target="_blank" class="image">
+        <a href="https://fah.um.edu.mo/liu-wei/" target="_blank" class="image">
         <img src="\faculty\Wei Liu.webp" alt="faculty" />
         </a>
         <p class="image-caption">
             <strong>Wei Liu</strong><br/>
-            <span class="details">Associate Professor<br/>SUSTech School of Design</span>
+            <span class="details">Associate Professor<br/>University of Macau</span>
         </p>
     </div>
     <div class="figure-grid-item">
