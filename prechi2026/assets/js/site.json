@@ -1,0 +1,16 @@
+{
+  "name": "Pre-CHI 2026",
+  "baseurl": "/prechi2026",
+  "pages": ["/prechi2026/404.html","/prechi2026/call-for-presenters/","/prechi2026/gallery/","/prechi2026/","/prechi2026/organizers/","/prechi2026/program/","/prechi2026/sponsors/","/prechi2026/venue/","/prechi2026/assets/js/config.json","/prechi2026/assets/js/data.json","/prechi2026/assets/js/site.json","/prechi2026/feed.xml","/prechi2026/jekyll/update/2026/01/27/welcome-to-jekyll.html"],
+  "assets": [
+    "/prechi2026/assets/css/conference.bundle.css",
+    "/prechi2026/assets/css/main.css",
+    "/prechi2026/assets/js/conference.bundle.js",
+    "/prechi2026/assets/js/leaflet.bundle.js",
+    "/prechi2026/assets/js/main.js",
+    "/prechi2026/assets/js/config.json",
+    "/prechi2026/assets/js/data.json",
+    "/prechi2026/assets/webfonts/bootstrap-icons.woff",
+    "/prechi2026/assets/webfonts/bootstrap-icons.woff2"
+  ]
+}
