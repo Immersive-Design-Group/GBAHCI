@@ -7,32 +7,56 @@
 
   <script>
     // Apply dark mode immediately based on system preference to prevent flash
+    // Force light mode and spoof system preference to satisfy the user request: "change it to all light"
     (function () {
-      // Apply light mode immediately and aggressively prevent changes
-      (function () {
-        var html = document.documentElement;
-        html.setAttribute('data-bs-theme', 'light');
+      // 1. Immediately force the attribute
+      document.documentElement.setAttribute('data-bs-theme', 'light');
 
-        // 1. Clear local storage if it saves the preference
-        try {
-          localStorage.removeItem('theme');
-          localStorage.setItem('theme', 'light');
-        } catch (e) { }
+      // 2. Spoof matchMedia to always report "light" (false for dark)
+      // This prevents the bundled theme JS from detecting system dark mode or switching to it
+      var originalMatchMedia = window.matchMedia;
+      window.matchMedia = function (query) {
+        if (query && query.toLowerCase().indexOf('dark') !== -1) {
+          return {
+            matches: false, // Always report false for dark mode
+            media: query,
+            onchange: null,
+            addListener: function () { }, // Legacy support
+            removeListener: function () { }, // Legacy support
+            addEventListener: function () { },
+            removeEventListener: function () { },
+            dispatchEvent: function () { return false; },
+          };
+        }
+        if (originalMatchMedia) {
+          return originalMatchMedia(query);
+        }
+        return {
+          matches: false,
+          media: query,
+          addListener: function () { },
+          removeListener: function () { }
+        };
+      };
 
-        // 2. Use MutationObserver to lock the attribute
-        var observer = new MutationObserver(function (mutations) {
-          mutations.forEach(function (mutation) {
-            if (mutation.type === "attributes" && mutation.attributeName === "data-bs-theme") {
-              if (html.getAttribute('data-bs-theme') !== 'light') {
-                html.setAttribute('data-bs-theme', 'light');
-              }
+      // 3. Optional: Lock the attribute using MutationObserver
+      // (This is a safety net in case some other script tries to force it back)
+      var observer = new MutationObserver(function (mutations) {
+        mutations.forEach(function (mutation) {
+          if (mutation.type === "attributes" && mutation.attributeName === "data-bs-theme") {
+            if (document.documentElement.getAttribute('data-bs-theme') !== 'light') {
+              document.documentElement.setAttribute('data-bs-theme', 'light');
             }
-          });
+          }
         });
-        observer.observe(html, { attributes: true });
-      })();
+      });
+      observer.observe(document.documentElement, { attributes: true });
 
-      
+      // Clear any saved preference
+      try {
+        localStorage.removeItem('theme');
+      } catch (e) { }
+    })();
   </script>
 
   <title>Home - Pre-CHI 2026</title>
@@ -66,10 +90,10 @@
 
   
   
-  <link rel="stylesheet" href="/prechi2026/assets/css/conference.bundle.css?t=1769683449" />
+  <link rel="stylesheet" href="/prechi2026/assets/css/conference.bundle.css?t=1769684523" />
   
   
-  <link rel="stylesheet" href="/prechi2026/assets/css/main.css?t=1769683449" />
+  <link rel="stylesheet" href="/prechi2026/assets/css/main.css?t=1769684523" />
 
   
 
@@ -280,8 +304,8 @@
     </div>
   </div>
 </div>
-<script type="module" src="/prechi2026/assets/js/conference.bundle.js?t=1769683449" data-baseurl="/prechi2026"></script>
-  <script type="module" src="/prechi2026/assets/js/main.js?t=1769683449"></script>
+<script type="module" src="/prechi2026/assets/js/conference.bundle.js?t=1769684523" data-baseurl="/prechi2026"></script>
+  <script type="module" src="/prechi2026/assets/js/main.js?t=1769684523"></script>
 
 </body>
 </html>
