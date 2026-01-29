@@ -8,11 +8,31 @@
   <script>
     // Apply dark mode immediately based on system preference to prevent flash
     (function () {
-      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      document.documentElement.setAttribute('data-bs-theme', prefersDark ? 'dark' : 'light');
-    })();
+      // Apply light mode immediately and aggressively prevent changes
+      (function () {
+        var html = document.documentElement;
+        html.setAttribute('data-bs-theme', 'light');
 
-    
+        // 1. Clear local storage if it saves the preference
+        try {
+          localStorage.removeItem('theme');
+          localStorage.setItem('theme', 'light');
+        } catch (e) { }
+
+        // 2. Use MutationObserver to lock the attribute
+        var observer = new MutationObserver(function (mutations) {
+          mutations.forEach(function (mutation) {
+            if (mutation.type === "attributes" && mutation.attributeName === "data-bs-theme") {
+              if (html.getAttribute('data-bs-theme') !== 'light') {
+                html.setAttribute('data-bs-theme', 'light');
+              }
+            }
+          });
+        });
+        observer.observe(html, { attributes: true });
+      })();
+
+      
   </script>
 
   <title>Pre-CHI 2026</title>
@@ -29,10 +49,10 @@
 
   
   
-  <link rel="stylesheet" href="/prechi2026/assets/css/conference.bundle.css?t=1769681199" />
+  <link rel="stylesheet" href="/prechi2026/assets/css/conference.bundle.css?t=1769683449" />
   
   
-  <link rel="stylesheet" href="/prechi2026/assets/css/main.css?t=1769681199" />
+  <link rel="stylesheet" href="/prechi2026/assets/css/main.css?t=1769683449" />
 
   
 
@@ -302,8 +322,8 @@
     </div>
   </div>
 </div>
-<script type="module" src="/prechi2026/assets/js/conference.bundle.js?t=1769681199" data-baseurl="/prechi2026"></script>
-  <script type="module" src="/prechi2026/assets/js/main.js?t=1769681199"></script>
+<script type="module" src="/prechi2026/assets/js/conference.bundle.js?t=1769683449" data-baseurl="/prechi2026"></script>
+  <script type="module" src="/prechi2026/assets/js/main.js?t=1769683449"></script>
 
 </body>
 </html>
