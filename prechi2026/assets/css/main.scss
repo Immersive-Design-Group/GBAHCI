@@ -1,1 +1,21 @@
 --- # Only the main Sass file needs front matter (the dashes are enough) ---
+/* Global Header Fixes */
+
+/* 1. Fix vertical alignment for all navbars */
+.navbar .container-fluid {
+    align-items: center;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+/* 2. Standardize Navbar Height consistency */
+/* Ensure the padding is consistent across all pages */
+.navbar {
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+    min-height: 70px;
+    /* Enforce a minimum height for consistency */
+}
